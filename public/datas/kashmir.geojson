@@ -1,0 +1,2908 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/dszuprsf6ry0zht/File%20Mar%2016%2C%205%2005%2015%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Re-settlement Colony, Qazigund",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Colonisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.748369,
+          34.02446
+        ],
+        "type": "Point"
+      },
+      "id": "0170d936844e7112b0dcd331caca0458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "Yes",
+        "position-reference": "https://www.dropbox.com/s/91x678pw8ro6gsu/File%20Mar%2017%2C%204%2013%2005%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "1931",
+        "title": "July 13, 1931 Massacre",
+        "description": "On 13 July, during the trial of Abdul Qadeer, who is accused of inciting Kashmiris to rebel against the Dogras, people assemble in the capital Srinagar. The Dogra troops shoot 22 Kashmiris dead. Widespread protests erupt all over the country against Maharaja Hari Singh, but the revolt is brutally suppressed. Dozens of Kashmiris are shot dead during the next few days in Islamabad (Anantnag) and Kupwara. In the hilly regions of Poonch a rebellion erupts which will continue for years.",
+        "source-url": "https://en.wikipedia.org/wiki/1931_Kashmir_agitation",
+        "image-url": "https://imagizer.imageshack.com/img923/3579/I8tYhp.jpg",
+        "category": "Events"
+      },
+      "geometry": {
+        "coordinates": [
+          74.812358,
+          34.096197
+        ],
+        "type": "Point"
+      },
+      "id": "057bfa97211f50cb7ea84884242ed6ab"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/vwcyxkjcyi1nz6d/File%20Mar%2015%2C%201%2032%2050%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Chanderkoot Military camp",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.303887,
+          33.187122
+        ],
+        "type": "Point"
+      },
+      "id": "076c0f8c0f28f8085be3e33c9d0e6718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "Yes",
+        "position-reference": "https://www.dropbox.com/s/g53sp0hztd4p3a9/File%20Mar%2016%2C%204%2022%2053%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Hari Niwas Palace Torture Center",
+        "description": "Palace of a former Dogra King used as torture center by Indian military",
+        "source-url": "https://www.greaterkashmir.com/todays-paper/torture-tales-continue-to-haunt-kashmirs-notorious-hari-niwas-palace",
+        "image-url": "https://imagizer.imageshack.com/img922/1438/6WC5oe.jpg",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.859481,
+          34.078804
+        ],
+        "type": "Point"
+      },
+      "id": "08c4d567ebd66e79adc651dced24d2ea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/k1fvnv58wrzungv/File%20Mar%2014%2C%2012%2038%2010%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Jammu Kashmir Police Commando Center",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.992177,
+          33.968343
+        ],
+        "type": "Point"
+      },
+      "id": "0adbfa2ed1a91dfe7eb8012523178898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/zy1sqncpaycj2j4/File%20Mar%2014%2C%2012%2059%2047%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Batamaloo military camp, Tattoo Ground",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.788105,
+          34.079334
+        ],
+        "type": "Point"
+      },
+      "id": "0fdbb51e7e54849ccfcf4c6db58c146d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/r5j0nmzv9jo4b82/File%20Mar%2015%2C%2011%2004%2036%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Salal Dam",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Infrastructure"
+      },
+      "geometry": {
+        "coordinates": [
+          74.810289,
+          33.142724
+        ],
+        "type": "Point"
+      },
+      "id": "14bac97c2305ec3dc9840e8f41a02ead"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/c36nb3fvjhzrlxq/File%20Mar%2015%2C%207%2015%2003%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "RR Camp, Larkipora",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.173609,
+          33.638912
+        ],
+        "type": "Point"
+      },
+      "id": "1963918ed2c97efa3807ff8458001a9e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/es16033ff1o7isz/File%20Mar%2017%2C%2010%2010%2003%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "RR Camp, Panchpora",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.07507,
+          33.853885
+        ],
+        "type": "Point"
+      },
+      "id": "1bff176181bc02164fd9f6831d0574e4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/niu0f9s8e85ecrq/File%20Mar%2015%2C%2012%2040%2045%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Kishtwar Air base",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.754029,
+          33.333199
+        ],
+        "type": "Point"
+      },
+      "id": "1e1e0a01a2a903204de39f1043cd265c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/sd9cn6w28enfz0u/File%20Mar%2015%2C%206%2041%2017%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "CRPF camp, Elahibagh",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.816669,
+          34.150303
+        ],
+        "type": "Point"
+      },
+      "id": "1e3530958a2d924f5d8c5892a9c3c58d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/vlzyi2pd6x2epgn/File%20Mar%2017%2C%202%2049%2004%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "CRPF Station, Batamaloo",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.792742,
+          34.081065
+        ],
+        "type": "Point"
+      },
+      "id": "1e61852d2c7b8f462a17572b53765747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/v5o1m8pjd2eksyh/File%20Mar%2015%2C%206%2019%2036%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Re-settlement Colony, Qazigund",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Colonisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.124187,
+          33.659171
+        ],
+        "type": "Point"
+      },
+      "id": "1f83b6c61f96ec1931f972c2320cf53d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/uff57d05arrgqsg/File%20Mar%2014%2C%202%2035%2025%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "IA Brigade Hqs, Drugmulla",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.281697,
+          34.494445
+        ],
+        "type": "Point"
+      },
+      "id": "20feb0e68110d5be2131c3ea39592082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/5b4cb45ti2gofpa/File%20Mar%2015%2C%2012%2007%2030%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "10 RR camp, Gai Dessa Doda",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.478967,
+          33.286462
+        ],
+        "type": "Point"
+      },
+      "id": "21de36675e2eda502416e7a489540b6c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/el3ro8cujemr8hk/File%20Mar%2015%2C%201%2059%2036%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Banihal Military camps",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.189811,
+          33.444676
+        ],
+        "type": "Point"
+      },
+      "id": "25f4f5bc06940bbee59e97812339ff78"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/j3fobe1wlcwd49f/File%20Mar%2014%2C%202%2045%2011%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Panzgam military base",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.070039,
+          34.490757
+        ],
+        "type": "Point"
+      },
+      "id": "26a9121c341a2fbfade697b7f46db16b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/x4tfioigjv6vl0s/File%20Mar%2018%2C%207%2032%2015%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Military Bases, Dawar/Achoora, Gurez Valley",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.835675,
+          34.632178
+        ],
+        "type": "Point"
+      },
+      "id": "2778f89039599fc9d5f63e5f8f4092b6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/ioyx2nd6u5rozd8/File%20Mar%2015%2C%2010%2050%2021%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "IA Divisional Hqs, Rajouri",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.305052,
+          33.380094
+        ],
+        "type": "Point"
+      },
+      "id": "27ed4ad6fd1e1e5ec753d2c9128f7e0e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/1hhlrb046qwub5q/File%20Mar%2015%2C%207%2000%2007%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "1 RR Headquarters, Khanabal",
+        "description": "Headquarters of Indian Army CI 1 RR, Victor Force. Responisble for counterinsurgency across South Kashmir. Numerous HR abuses over the years.",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.124996,
+          33.74316
+        ],
+        "type": "Point"
+      },
+      "id": "290095ea8fcc6c3dee220d40ac59ef71"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/csjgf2cmdrkvcie/File%20Mar%2016%2C%2012%2039%2039%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Tunnel construction camp, Gangangeer",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Infrastructure"
+      },
+      "geometry": {
+        "coordinates": [
+          75.199579,
+          34.292635
+        ],
+        "type": "Point"
+      },
+      "id": "2aa27e212d3a97a0766211c0f7aedee8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/kairb0ifge23cvk/File%20Mar%2017%2C%209%2013%2045%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "CRPF 110 Bn Hqrs, ",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.954574,
+          33.969073
+        ],
+        "type": "Point"
+      },
+      "id": "2b87a238c29df888db208d0aebd629da"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/5vj1pd3ut8rogti/File%20Mar%2016%2C%204%2058%2024%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "CRPF Recruit Training Center, Humhama",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.758604,
+          34.021802
+        ],
+        "type": "Point"
+      },
+      "id": "3199c4e1ff08c4b2cd9d33906ae76982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/mykgp5yox2u6qh0/File%20Mar%2015%2C%207%2025%2012%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "IRP 10 bn, Kehribal",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.218085,
+          33.754235
+        ],
+        "type": "Point"
+      },
+      "id": "323871cf4d0e3f85c0c79ea5cb24f355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/b7crtmgcu78dqw9/File%20Mar%2017%2C%209%2057%2021%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Army Camp, Wanigam",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.483713,
+          34.048455
+        ],
+        "type": "Point"
+      },
+      "id": "34da6fb8bb9d5bd041e4417b9d4f6867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/6c44q9gq6gjfvwy/File%20Mar%2015%2C%2011%2051%2004%20AM.jpeg?dl=0 ",
+        "video-id": "",
+        "date": "",
+        "title": "IA Northern Command Hqs, Udhampur",
+        "description": "The Northern Command Headquarters of the Indian Army is based in Udhampur and consists of three Corps, the XIV, XV, and XVI. While it has fought wars with Pakistan and China recently, its central focus has been counterinsugency operations against Kashmiris.",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.121638,
+          32.929529
+        ],
+        "type": "Point"
+      },
+      "id": "36e9d0dfa572a312a1ffe338587c17d0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/os6npz1eo9zedzd/File%20Mar%2017%2C%204%2058%2027%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Military Base , Trehgam",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.165566,
+          34.51505
+        ],
+        "type": "Point"
+      },
+      "id": "37d2f7fb564da4d58e23475103263f18"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/7fnojjf99lvg76z/File%20Mar%2015%2C%201%2043%2051%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Mahore military camp",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.853088,
+          33.31704
+        ],
+        "type": "Point"
+      },
+      "id": "38ac8f87a6629b06e0a303637fb2c4b6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/zhi422abhhqenbe/File%20Mar%2016%2C%205%2020%2013%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Police Lines and Prison, Pulwama",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.893391,
+          33.854193
+        ],
+        "type": "Point"
+      },
+      "id": "393eb63aaae68b3c5c7f838f157fbb32"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/xgddcgug40641de/File%20Mar%2014%2C%202%2024%2000%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Uri Hydelpower Dam",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Infrastructure"
+      },
+      "geometry": {
+        "coordinates": [
+          74.031876,
+          34.091941
+        ],
+        "type": "Point"
+      },
+      "id": "3980debf45a3f58090102caf7a1eab7b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/k6pp8z80ykou4n7/File%20Mar%2016%2C%2012%2033%2045%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Indian Pilgrim colony, Panjtarni",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Colonisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.499287,
+          34.189551
+        ],
+        "type": "Point"
+      },
+      "id": "3b52549478d30b5e8b1ac48fd6f62967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/oxgdkx7tqfow3ae/File%20Mar%2014%2C%201%2012%2016%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Mansbal Military Camp",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.64561,
+          34.248238
+        ],
+        "type": "Point"
+      },
+      "id": "3c09832af18fcfa1fb549ea39cad2822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/r1vfiinfij7o7c5/File%20Mar%2014%2C%2012%2051%2007%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Indian Airforce Base, Qoil",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.976764,
+          33.878202
+        ],
+        "type": "Point"
+      },
+      "id": "3c3017c90143af768b04314acb27b37b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/6sks3131xj7vfrt/File%20Mar%2015%2C%2010%2038%2016%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Mendhar Military base",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.221324,
+          33.552456
+        ],
+        "type": "Point"
+      },
+      "id": "3efec5a16edb4669a80642d6548d1320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/r8uusawjmicavsp/File%20Mar%2015%2C%2011%2015%2009%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "IA Military base, Nagrota",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.929135,
+          32.801251
+        ],
+        "type": "Point"
+      },
+      "id": "3fbaa441b379b6029a2b81bf00c13194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/4ki8hp28nqez09q/File%20Mar%2016%2C%2012%2023%2026%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Military camp and Indian Pilgrim Colony, Ladakh Road",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Colonisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.323719,
+          34.291164
+        ],
+        "type": "Point"
+      },
+      "id": "44c53b080119eb4b42d7a4ff1433fea4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/fytdu6p9egftoi0/File%20Mar%2015%2C%2012%2018%2016%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Bochu Military base",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.520255,
+          34.193639
+        ],
+        "type": "Point"
+      },
+      "id": "482d8d0ced72cb3059cd916de44b1a11"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/ob4d1o7wofqchhg/File%20Mar%2017%2C%209%2036%2005%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "RR Camp, Tral",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.129407,
+          33.943653
+        ],
+        "type": "Point"
+      },
+      "id": "4d99e58de211b9c9a78c7e53e7c3c828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/u7dpaeh927yoisq/File%20Mar%2014%2C%2012%2055%2045%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Indian Airforce Base, Srinagar",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.778492,
+          33.98436
+        ],
+        "type": "Point"
+      },
+      "id": "53f59df58f5c05b87b70dbabb827a335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/y4tthh04aaj1m2g/File%20Mar%2017%2C%202%2044%2006%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "CRPF IG Operations, SMHS",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.797615,
+          34.084074
+        ],
+        "type": "Point"
+      },
+      "id": "5a57963162f035c5e4347a2da4b21995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/83ot6eu89wke7q4/File%20Mar%2014%2C%2012%2022%2008%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "BSF/ITBP campuses",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.895351,
+          34.045931
+        ],
+        "type": "Point"
+      },
+      "id": "5ec4c963aac28b2e8635c90f15ec965f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "Yes",
+        "position-reference": "",
+        "video-id": "",
+        "date": "1947",
+        "title": "Jammu Massacre",
+        "description": "In September and October 1947, Hindu militias and Dogra troops attack Jammu’s Muslims, killing tens of thousands. According to census reports of the time and later research, around of 237,000 Muslims are dead and half a million become refugees.",
+        "source-url": "https://en.wikipedia.org/wiki/1947_Jammu_massacres#Massacres",
+        "image-url": "https://imagizer.imageshack.com/img923/1026/ICe4as.jpg",
+        "category": "Events"
+      },
+      "geometry": {
+        "coordinates": [
+          74.861992,
+          32.730896
+        ],
+        "type": "Point"
+      },
+      "id": "5eef5cf7565b23e9517557e773888087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/h3z6ot3cn8u8p69/File%20Mar%2015%2C%201%2023%2005%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Bandarkoot Military camp",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.733048,
+          33.360702
+        ],
+        "type": "Point"
+      },
+      "id": "625b0c7324740ff816cd394a1c24e9f1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/lvpwkft5pxtz9pd/File%20Mar%2014%2C%203%2033%2037%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "LoC military deployments, Gulmarg",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.314678,
+          33.97632
+        ],
+        "type": "Point"
+      },
+      "id": "6299d54df10975c2e8bb50c7765629fd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/r7zhbrz89d19oh6/File%20Mar%2015%2C%207%2008%2011%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "1 RR military camp",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.166887,
+          33.725489
+        ],
+        "type": "Point"
+      },
+      "id": "648ac4f50e3faf103309342da4269460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/lkrmnkumnyzvld7/File%20Mar%2015%2C%207%2009%2057%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "CRPF Camp, Ashajipora",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.147315,
+          33.717719
+        ],
+        "type": "Point"
+      },
+      "id": "6568653bf0308bf307ce3b5417489c6e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "Yes",
+        "position-reference": "https://www.dropbox.com/s/wia11x2t7qjfll8/File%20Mar%2017%2C%204%2035%2033%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "1990",
+        "title": "Tengpora Massacre, March 1",
+        "description": "On 1 March, Indian soldiers kill around 50 Kashmiri protestors near Tengpora in Srinagar. Some protestors were shot dead by Indian troops in Zakura neighborhood of the city.",
+        "source-url": "https://www.greaterkashmir.com/more/zakura-tengpora-carnages-haunt-survivors",
+        "image-url": "https://imagizer.imageshack.com/img923/1/KwJ6NH.jpg",
+        "category": "Events"
+      },
+      "geometry": {
+        "coordinates": [
+          74.786638,
+          34.056693
+        ],
+        "type": "Point"
+      },
+      "id": "67be2ce510fcd2a37973d5cf9b36eb67"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/had6fai1wvooltq/File%20Mar%2015%2C%2011%2026%2038%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Suchetgarh Border crossing",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Infrastructure"
+      },
+      "geometry": {
+        "coordinates": [
+          74.675208,
+          32.566207
+        ],
+        "type": "Point"
+      },
+      "id": "6a839b0cacd7831d4ff8b4ecc4965c5c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/08qw10lqemb7u61/File%20Mar%2016%2C%2012%2043%2051%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Military camp + school, Kangan",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.912146,
+          34.256323
+        ],
+        "type": "Point"
+      },
+      "id": "6a9624b77b33283b899540e4e1ae6c1d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/228isbyfr739ggz/File%20Mar%2014%2C%202%2052%2043%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "LoC military deployments Trehgam",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          73.9746,
+          34.659905
+        ],
+        "type": "Point"
+      },
+      "id": "6cb6ae12f69f44c395644cf19338fff5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/lq6uzytuph8zzed/File%20Mar%2015%2C%206%2050%2017%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "RR camp, Watergam",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.375301,
+          34.313847
+        ],
+        "type": "Point"
+      },
+      "id": "6cb9329a69db64249c4f05daa31931de"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "Yes",
+        "position-reference": "https://www.dropbox.com/s/b7g1ly0yxbwpk9q/File%20Mar%2017%2C%205%2031%2002%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "1993",
+        "title": "Lal Chowk Arson and Massacre, 9 - 10 April",
+        "description": "BSF burn down Srinagar's central business district, trapping Kashmiris inside. Around 125 Kashmiris are shot in the building and on the boat in the nearby Jhelum river.",
+        "source-url": "https://www.nytimes.com/1993/04/18/world/indian-troops-are-blamed-as-kashmir-violence-rises.html https://en.wikipedia.org/wiki/1993_Lal_Chowk_fire#cite_note-nyt-3",
+        "image-url": "https://imagizer.imageshack.com/img923/1567/HL4Vub.jpg",
+        "category": "Events"
+      },
+      "geometry": {
+        "coordinates": [
+          74.809831,
+          34.070898
+        ],
+        "type": "Point"
+      },
+      "id": "6eb0a4bcf1b27a64aa64cd31078b7e3a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/74myvs2k7901j2f/File%20Mar%2016%2C%204%2045%2037%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "D Karewa Army Base, Budgam",
+        "description": "",
+        "source-url": "https://www.greaterkashmir.com/more/a-long-legal-battle-for-their-land",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.793531,
+          33.98896
+        ],
+        "type": "Point"
+      },
+      "id": "6f74b916539535ac41821db2d7b8c5d1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "Yes",
+        "position-reference": "https://www.dropbox.com/s/pcceogliywd9t1m/File%20Mar%2016%2C%203%2050%2021%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Air Cargo Torture Center / Cyber Police",
+        "description": "Torture Center and Cyber Station of JK Police where Kashmiri civil society activists, including journalists, are regularly taken, detained, and interrogated.",
+        "source-url": "https://www.trtworld.com/magazine/when-a-kashmiri-journalist-went-to-former-torture-centre-for-an-exclusive-35974 ; https://www.dailymail.co.uk/indiahome/indianews/article-2103469/Makeover-Sringars-dreadful-interrogation-centres.html ",
+        "image-url": "https://imagizer.imageshack.com/img922/3439/eyvH1b.jpg",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.801121,
+          34.063356
+        ],
+        "type": "Point"
+      },
+      "id": "6ff52f1acd67d09e36f6eed78245e2cb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/q03wajfckrc2c9g/File%20Mar%2014%2C%202%2058%2005%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "LoC military deployments Tangdhar",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          73.857369,
+          34.402398
+        ],
+        "type": "Point"
+      },
+      "id": "720b94fb1d540443bfc98d9ace509825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/e6bsjvo9nmbxgx1/File%20Mar%2014%2C%202%2017%2027%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "IA Divisional Hq, Kupwara",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.268157,
+          34.535314
+        ],
+        "type": "Point"
+      },
+      "id": "725794e872d6bea4d2b5a5133d4414df"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/s3hrt1dc6snl2jk/File%20Mar%2015%2C%2012%2021%2024%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Singhpora Military base",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.403215,
+          34.197464
+        ],
+        "type": "Point"
+      },
+      "id": "7541a32b92ea41ea6198f863a658edc3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/7q7jnfpk0n964l8/File%20Mar%2015%2C%2011%2041%2009%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "IAF base, Udhampur",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.156885,
+          32.902745
+        ],
+        "type": "Point"
+      },
+      "id": "75e9a26818e864cfe05dde6f0a82a1ea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/xkt8tr56b2624ny/File%20Mar%2017%2C%209%2017%2038%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "RR Camp, Lethpora",
+        "description": "Says plastic factory, but is a notorious RR camp",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.946078,
+          33.974697
+        ],
+        "type": "Point"
+      },
+      "id": "78e55bf1881bb4101bd65bfd5a9149bd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/qqd6vlqmnvjdzag/File%20Mar%2014%2C%201%2039%2026%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Cross-LOC Salamabad bridge",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Infrastructure"
+      },
+      "geometry": {
+        "coordinates": [
+          73.904518,
+          34.103517
+        ],
+        "type": "Point"
+      },
+      "id": "7d7819c740e778b4ae30a771bb3341ca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/uhiuow1uia6v0er/File%20Mar%2014%2C%203%2037%2010%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Brigade hqs, Gulmarg",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.374179,
+          34.060283
+        ],
+        "type": "Point"
+      },
+      "id": "810d36883e320f05186a137ef8e79862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/p6n0g2e1odhsdq9/File%20Mar%2015%2C%202%2021%2042%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "RR camp, Qazigund",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.182616,
+          33.568098
+        ],
+        "type": "Point"
+      },
+      "id": "834a9c7bb708af7b96ec6a0721250623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/w4nzikx1qynimls/File%20Mar%2015%2C%207%2018%2025%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "RR Camps, Doru",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.224222,
+          33.564363
+        ],
+        "type": "Point"
+      },
+      "id": "83ac8c66063f6dc35f297016e0bf02de"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/viuljx5b50lacy2/File%20Mar%2015%2C%201%2030%2026%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Bulandpure Military camp",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.319357,
+          33.132424
+        ],
+        "type": "Point"
+      },
+      "id": "855c42a0d1855494d1b313b255bca59b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "Yes",
+        "position-reference": "https://www.dropbox.com/s/qln28t1rr6wij0i/File%20Mar%2017%2C%204%2052%2047%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "1991",
+        "title": "Kunan-Poshpora Mass Rape, February 23",
+        "description": "On 23 February, around 300 army personel raided the village, 150 girls and women were raped that night and 200 men were tortured; only 40 women who were raped stepped forward to seek justice.",
+        "source-url": "https://thediplomat.com/2018/02/all-these-years-later-do-not-forget-the-kunan-poshpora-mass-rapes/",
+        "image-url": "https://imagizer.imageshack.com/img924/6431/zRN6yT.jpg",
+        "category": "Events"
+      },
+      "geometry": {
+        "coordinates": [
+          74.193607,
+          34.509795
+        ],
+        "type": "Point"
+      },
+      "id": "8e404f9e901d237b0e50ae79af42ecfc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "Yes",
+        "position-reference": "https://www.dropbox.com/s/i1btgh7dxlmgmr0/File%20Mar%2015%2C%207%2027%2056%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "2000",
+        "title": "Chittisinghpora Massacre, 20 March",
+        "description": "Gunmen kill 35 Kashmiri Sikh villagers in the village of Chittisingpura. ",
+        "source-url": "https://www.theguardian.com/world/2000/mar/22/india.kashmir https://en.wikipedia.org/wiki/Chittisinghpura_massacre",
+        "image-url": "https://imagizer.imageshack.com/img923/7482/I7ruiN.jpg",
+        "category": "Events"
+      },
+      "geometry": {
+        "coordinates": [
+          75.243534,
+          33.729022
+        ],
+        "type": "Point"
+      },
+      "id": "8ef33fc243e478ec376d13cd06e32bb0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/yp1cvbhsh9wb375/File%20Mar%2015%2C%2012%2038%2018%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Kishtwar Military base",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.77436,
+          33.314455
+        ],
+        "type": "Point"
+      },
+      "id": "8f3644ad48ebac7d407db3147a46ea3a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/2gc8iyjqbf3v5au/File%20Mar%2017%2C%2010%2012%2047%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "SOG Camp, Sirgufwara",
+        "description": "SOG - Special Operations Group, JK Police",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.217092,
+          33.81751
+        ],
+        "type": "Point"
+      },
+      "id": "8ff94f65c1c943f53346ea7eca4ca2e4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/ejkwubj8l35wr2t/File%20Mar%2015%2C%202%2015%2009%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "24 BN HQ CRPF, Munda",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.233841,
+          33.53907
+        ],
+        "type": "Point"
+      },
+      "id": "901b235d2adefc544b3e5c6fd4e6ea3e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/pqu2uyg4nto94s4/File%20Mar%2015%2C%2010%2023%2028%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Poonch Military base, CIF Romeo Force",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.084075,
+          33.773159
+        ],
+        "type": "Point"
+      },
+      "id": "90f433a384923bb2d0ba2225bda1b191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/3wfz9sgjnyh8loe/File%20Mar%2015%2C%201%2039%2000%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Chenani-Nashri Tunnel",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Infrastructure"
+      },
+      "geometry": {
+        "coordinates": [
+          75.288013,
+          33.098532
+        ],
+        "type": "Point"
+      },
+      "id": "955707ec2e1250b5d7577c604809a9b0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/pw5eze44gsk7clt/File%20Mar%2016%2C%205%2016%2032%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "CRPF 183 Bn, Pulwama",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.8989,
+          33.865049
+        ],
+        "type": "Point"
+      },
+      "id": "966f89964c008dacd449bbfeba7ae231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/1k17m5fz1l564gg/File%20Mar%2018%2C%207%2036%2034%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Military Base, Badoab Gurez",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.177024,
+          34.527378
+        ],
+        "type": "Point"
+      },
+      "id": "9861a81999b2b7e3415683c140e2ef17"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/hqylyt7gilz8jqy/File%20Mar%2015%2C%2012%2029%2008%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Haigham Military base",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.50958,
+          34.215822
+        ],
+        "type": "Point"
+      },
+      "id": "9aee4299f7cd467f603f2dbf90f909af"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/hqs6fh5ptv987f7/File%20Mar%2018%2C%207%2028%2001%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "LoC deployments, Gurez",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.714225,
+          34.670394
+        ],
+        "type": "Point"
+      },
+      "id": "9df18fd5f0c30ae3e091e51710d6fa70"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/2q28z1l2lxa0zlt/File%20Mar%2017%2C%202%2052%2022%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "CRPF Camp, Sanatnagar",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.801194,
+          34.035536
+        ],
+        "type": "Point"
+      },
+      "id": "a2688702ed2aa0313a1531084096d1f3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "Yes",
+        "position-reference": "https://www.dropbox.com/s/ghsx144rlp3fvvi/File%20Mar%2017%2C%204%2031%2014%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "1990",
+        "title": "Handwara Massacre, January 21",
+        "description": "Indian Border Security Force (BSF) kill 21, injure 75 unarmed Kashmir protestors in Handwara town.",
+        "source-url": "https://en.wikipedia.org/wiki/Handwara_massacre",
+        "image-url": "https://imagizer.imageshack.com/img924/5713/hozRXN.jpg",
+        "category": "Events"
+      },
+      "geometry": {
+        "coordinates": [
+          74.281528,
+          34.399543
+        ],
+        "type": "Point"
+      },
+      "id": "a7615ee1c34f21aa10887128e3dce45c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "Yes",
+        "position-reference": "https://www.dropbox.com/s/dxxjllmegtd3g8z/File%20Mar%2017%2C%204%2043%2054%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "1990",
+        "title": "Hawal Massacre, 21 May",
+        "description": "Indian paramilitaries kill 60 Kashmiri mourners and injure 200 near Hawal in Srinagar. The mourners are part of the funeral procession of slain Kashmiri preacher Mirwaiz Molvi Farooq. ",
+        "source-url": "https://en.wikipedia.org/wiki/Hawal_massacre",
+        "image-url": "https://imagizer.imageshack.com/img924/5249/CukbUo.jpg",
+        "category": "Events"
+      },
+      "geometry": {
+        "coordinates": [
+          74.809173,
+          34.111603
+        ],
+        "type": "Point"
+      },
+      "id": "a8a49d7b2468f61983bd9c88da628f28"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/qv6safygcfygr6u/File%20Mar%2018%2C%207%2039%2037%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Military Base, Niru Gurez",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.025382,
+          34.562533
+        ],
+        "type": "Point"
+      },
+      "id": "a8bc04498b27192294199b0a417cfcbf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/39201wjdviwni3n/File%20Mar%2016%2C%2012%2026%2048%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Military base and Indian Pilgrim colony, Sonmarg",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Colonisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.289861,
+          34.301673
+        ],
+        "type": "Point"
+      },
+      "id": "a959a00e8bbe3fe28d65b950a2448ebc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/t6n19c959piwvzy/File%20Mar%2016%2C%204%2031%2054%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Kohi Maran (Hari Parbat) CRPF camp",
+        "description": "Historic Fort and sacred site for Muslims under Indian military occupation",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.815837,
+          34.105397
+        ],
+        "type": "Point"
+      },
+      "id": "aa28c982aa137f083b1834135012da74"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/dhi5goiqw06qkzh/File%20Mar%2015%2C%2010%2028%2049%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Bhimber Military base",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.221614,
+          33.551982
+        ],
+        "type": "Point"
+      },
+      "id": "ad0bc84d6e449ec30d8195d73d4dbc09"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/yz5z7kgvffdybdw/File%20Mar%2016%2C%203%2012%2002%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Chesma Shahi detention and Torture center",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.883896,
+          34.081666
+        ],
+        "type": "Point"
+      },
+      "id": "ae2ba7364108de228602bf426a25179f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "Yes",
+        "position-reference": "https://www.dropbox.com/s/ft0lcv3ekwitfmc/File%20Mar%2017%2C%206%2000%2024%20PM.jpeg?dl=0",
+        "date": "2003",
+        "title": "Nadimarg Massacre, 23 March",
+        "description": "Gunmen kill 24 Kashmiri Pandits in the village of Nadimarg. ",
+        "source-url": "https://en.wikipedia.org/wiki/2003_Nadimarg_massacre https://www.bbc.com/news/world-asia-india-58839297 ",
+        "image-url": "https://imagizer.imageshack.com/img924/4152/s57QSm.jpg",
+        "category": "Events"
+      },
+      "geometry": {
+        "coordinates": [
+          75.012105,
+          33.744579
+        ],
+        "type": "Point"
+      },
+      "id": "af0c1e83ce764445343c8c9652af658d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/x50tn3ojvf6gxhs/File%20Mar%2017%2C%2010%2000%2040%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "CRPF camp, Sangam",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.06955,
+          33.83142
+        ],
+        "type": "Point"
+      },
+      "id": "afa803f4268ff0bbc2a60d7e53b30f7d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/1xvoilweoseokje/File%20Mar%2015%2C%2010%2034%2006%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Indian artillery positions, Mendhar",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.015495,
+          33.629025
+        ],
+        "type": "Point"
+      },
+      "id": "b07d02e717330159e491988a9a271974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/go0ej49w9csjd7c/File%20Mar%2015%2C%206%2015%2000%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "CRPF camp, Qazigund",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.153817,
+          33.60331
+        ],
+        "type": "Point"
+      },
+      "id": "b3384d016abd065b881e12ac0305a112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "Yes",
+        "position-reference": "https://www.dropbox.com/s/n5dj1kx6cglhcj2/File%20Mar%2014%2C%2012%2031%2001%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "RR, Victor Force headquarters",
+        "description": "Indian military's main counterinsurgency arm that controls South Kashmir districts. Involved in widespread abuses against Kashmiris.",
+        "source-url": "https://en.wikipedia.org/wiki/Rashtriya_Rifles",
+        "image-url": "https://imagizer.imageshack.com/img923/2627/3VRHKH.jpg",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.005327,
+          33.936595
+        ],
+        "type": "Point"
+      },
+      "id": "b3c3cbc18f6365c767e2efa9d45a445b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "Yes",
+        "position-reference": "https://www.dropbox.com/s/jifb1ypuzmf4o8s/File%20Mar%2017%2C%204%2023%2021%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "1990",
+        "title": "Gaw Kadal Massacre, January 21",
+        "description": "Indian paramilitary CRPF kill an estimated 55-65 unarmed Kashmiri protesters near Gawakadal in Srinagar. ",
+        "source-url": "https://en.wikipedia.org/wiki/Gawkadal_massacre",
+        "image-url": "https://imagizer.imageshack.com/img922/4234/H0O52g.jpg",
+        "category": "Events"
+      },
+      "geometry": {
+        "coordinates": [
+          74.809063,
+          34.074836
+        ],
+        "type": "Point"
+      },
+      "id": "b63b8a5e93b725b30ec2fed0f7820eb2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/8kp6zycvpffe0nr/File%20Mar%2017%2C%209%2029%2015%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "RR Camp, Kanginag",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.035283,
+          33.911806
+        ],
+        "type": "Point"
+      },
+      "id": "b7553dff1921ac59ea62c84a41212d98"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/ed7p4aurp1m5315/File%20Mar%2014%2C%203%2042%2010%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Tosamaindan heavy artillery firing range",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Colonisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.512579,
+          33.914944
+        ],
+        "type": "Point"
+      },
+      "id": "b83b5a0a5253a644228d34d46cdc4561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/k3d6q36rxfsidku/File%20Mar%2017%2C%209%2040%2057%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "CRPF 180 Bn, Tral",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.120818,
+          33.922394
+        ],
+        "type": "Point"
+      },
+      "id": "b87f1315a6d7184f9b59ad0d3be37809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/kjqr8ht5cm2en09/File%20Mar%2015%2C%201%2052%2027%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Ramban Military camp",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.244751,
+          33.233002
+        ],
+        "type": "Point"
+      },
+      "id": "b981a9d18a1d112df5cc861b6895ba8d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/mfupvrdnacoc5am/File%20Mar%2016%2C%2011%2059%2014%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "CRPF camp, Kokernag",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.302414,
+          33.587067
+        ],
+        "type": "Point"
+      },
+      "id": "ba9381b8bf581ab641c6fd27653f1264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/hkj72dqytzcpvde/File%20Mar%2015%2C%2011%2008%2056%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "IA Military base, Reasi",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.818461,
+          33.091282
+        ],
+        "type": "Point"
+      },
+      "id": "bb1e7ae6e13170ea8e5cb18db1312e1f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/cb7xlqluwj26mc9/File%20Mar%2016%2C%2012%2011%2045%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Military-run School",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.314172,
+          33.967395
+        ],
+        "type": "Point"
+      },
+      "id": "bbd7c9636281989e5c84089b63a9586f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "Yes",
+        "position-reference": "https://www.dropbox.com/s/5tgqwvbma7g8uew/File%20Mar%2017%2C%205%2019%2023%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "1993",
+        "title": "Sopore Arson and Massacre, January 6",
+        "description": "Indian BSF burn down 450 businesses and homes in Kashmiri town of Sopore. They also kill 55 Kashmiri passengers traveling in a bus.",
+        "source-url": "https://web.archive.org/web/20081210092812/http://www.time.com/time/magazine/article/0,9171,977469,00.html https://www.greaterkashmir.com/kashmir/sopore-massacre-when-57-civilians-were-killed-400-shops-and-75-houses-burnt-down ",
+        "image-url": "https://imagizer.imageshack.com/img924/6465/bUnCXH.jpg",
+        "category": "Events"
+      },
+      "geometry": {
+        "coordinates": [
+          74.467602,
+          34.284666
+        ],
+        "type": "Point"
+      },
+      "id": "bc41d2abc4e922b6df934cf5801f1bed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "Yes",
+        "position-reference": "https://www.dropbox.com/s/8p39p9vi2i0m7r1/File%20Mar%2016%2C%204%2008%2033%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "RR Kilo Force Hqrs, Sharief Abad",
+        "description": "Headquarters of Indian military's Kilo Force, that oversees counterinsurgency across North Kashmir. Known for widespread abuses. Plus built on stolen land.",
+        "source-url": "https://www.greaterkashmir.com/more/army-gets-shariefabad-land-in-lieu-of-tatoo-ground-keeps-both",
+        "image-url": "https://imagizer.imageshack.com/img922/1707/UJ3JXt.jpg",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.731751,
+          34.085987
+        ],
+        "type": "Point"
+      },
+      "id": "bc8661f94cfb3a74861851aece4e874b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/rop17v6lsahoivg/File%20Mar%2015%2C%2011%2001%2039%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "IA Brigade Hqs, Sunderbani",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.503625,
+          33.05119
+        ],
+        "type": "Point"
+      },
+      "id": "c21eee9e8625da42b3234d6b011c45e6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "Yes",
+        "position-reference": "https://www.dropbox.com/s/mmpytahvd7t14b3/File%20Mar%2017%2C%205%2003%2018%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "1993",
+        "title": "Bijbehara Massacre, October 22",
+        "description": "74th Battalion of the Border Security Force (BSF) fired upon protesters in Bijbehara town on 22 October 1993, killing 51 civilians and injuring 200.",
+        "source-url": "http://kashmirtimes.com/newsdet.aspx?q=84092",
+        "image-url": "https://imagizer.imageshack.com/img922/9797/iCWhQc.jpg",
+        "category": "Events"
+      },
+      "geometry": {
+        "coordinates": [
+          75.103032,
+          33.793262
+        ],
+        "type": "Point"
+      },
+      "id": "c426843c4ac521319a2e2e17e85300b9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/xqec7to9esm05g8/File%20Mar%2015%2C%2010%2042%2042%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Indian artillery positions, Dhatote",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.190076,
+          33.429085
+        ],
+        "type": "Point"
+      },
+      "id": "c542dbe5ea89d07ff0f4b7247de61dec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "Yes",
+        "position-reference": "https://www.dropbox.com/s/hxfglh4wh01jot5/File%20Mar%2015%2C%207%2032%2035%20PM.jpeg?dl=0",
+        "video-id": "Wg3Vzb5prFM",
+        "date": "",
+        "title": "Khundru 21 Field Ammunition Depot",
+        "description": "One of the largest ammunition depots of the Indian Army. On August 11, 2007, the depot exploded with heavy shells flying into the surrounding villages. 18 people were killed and many others injured. The explosion affected 13 villages with a population of 26000 spread across 225 square kilometres. The depot is heavily land-mined and has been a source of trauma for Kashmiris living on its peripheries.  ",
+        "source-url": "https://kashmirlife.net/a-constant-torment-51/",
+        "image-url": "https://imagizer.imageshack.com/img922/4166/vf3Atx.jpg",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.248587,
+          33.684066
+        ],
+        "type": "Point"
+      },
+      "id": "c7f187f6f31fdcf49e44917028ea4c9d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "Yes",
+        "position-reference": "https://www.dropbox.com/s/zyuk42a02nkf5ja/File%20Mar%2014%2C%2011%2055%2047%20AM.jpeg?dl=0",
+        "video-id": "BqnlfXdwrlc",
+        "date": "",
+        "title": "Badamibagh Cantonment",
+        "description": "Headquarters of the Indian Army's 15 Corp. It is the main nerve center of India's counterinsurgency operations in Kashmir. Its counterinsurgency Rashtriya Rifles is made up of around 70 regiments. ",
+        "source-url": "https://en.wikipedia.org/wiki/XV_Corps_(India) ;  https://commons.wikimedia.org/wiki/File:PM_Modi_visits_Badami_Bagh_cantonment_in_Srinagar.jpg ",
+        "image-url": "https://imagizer.imageshack.com/img924/9940/1SHrVw.jpg",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.859485,
+          34.063258
+        ],
+        "type": "Point"
+      },
+      "id": "c8804a29a22b69871f51206d732d68ed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/rai9hyfpj9q8lqw/File%20Mar%2015%2C%206%2028%2033%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "CRPF camp 18th Bn, Kulgam",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.022601,
+          33.649575
+        ],
+        "type": "Point"
+      },
+      "id": "ce0cec7deb88695eee0da9ee33844667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/dnij4b9lpvljglf/File%20Mar%2017%2C%202%2039%2016%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "CRPF 49 Bn, Jehangir Chowk",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.806096,
+          34.07124
+        ],
+        "type": "Point"
+      },
+      "id": "cf0236e452540c9c87c9189766494870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/0tcqhb716p29kv2/File%20Mar%2015%2C%202%2004%2056%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Khairkoot Military camps",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.173584,
+          33.493116
+        ],
+        "type": "Point"
+      },
+      "id": "d44a667d13c164c9aa750fdc75914960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/bxoc9vmkqyfnyo7/File%20Mar%2015%2C%206%2055%2030%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "3 RR B coy Camp, Bijbehara",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.096439,
+          33.789459
+        ],
+        "type": "Point"
+      },
+      "id": "d4623a123823221772912182c52d1973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/72jzkc0of2xhru3/File%20Mar%2016%2C%204%2052%2047%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Border Security Force Headquarters",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.756079,
+          34.015675
+        ],
+        "type": "Point"
+      },
+      "id": "d54fe9bcae243c6d460aa5d7bd8518c4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/e9rd7w57mvifgye/File%20Mar%2015%2C%202%2011%2027%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Banihal Tunnel",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Infrastructure"
+      },
+      "geometry": {
+        "coordinates": [
+          75.212631,
+          33.513143
+        ],
+        "type": "Point"
+      },
+      "id": "d7fdced97c05d445edc0877f6f04e044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/gk8e54jhskimv3k/File%20Mar%2016%2C%204%2038%2016%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "JK Light Infantry military base",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.783471,
+          33.995944
+        ],
+        "type": "Point"
+      },
+      "id": "da6dccad9a3a28b2a4398c97700c91ac"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "Yes",
+        "position-reference": "https://www.dropbox.com/s/cq29jyi2rizw26o/File%20Mar%2017%2C%202%2035%2036%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "CRPF Srinagar sector hqrs, Brein Nishat",
+        "description": "Indian paramilitary CRPF (Central Reserve Police Force) has more than 737 camps across Kashmir. Widely used to suppress Kashmiri protests, CRPF has a long record of violations of Kashmiri rights.",
+        "source-url": "https://trc.taboola.com/kashmirlife/log/3/click?pi=%2Fmaj-gen-slaria-takes-over-as-goc-kilo-force-275240&ri=f11b51dd4a4e2f03e00eec29f084decd&sd=v2_ec2f1aac08ae1225dcc397ec8869303f_aafdb934-6a24-47d0-bdd6-e3aabd4421bf- ; https://www.thehansindia.com/posts/index/National/2016-07-26/Kashmir-protests-CRPF-say-pellet-guns-least-lethal-option/244701tuct92b8d88_1647540806_1647540806_CAwQzf9HGLPF1sj5LyABKAQw4QE4kaQOQJ_uDkj2y9kDUJ8EWABgzAZop9jj7sez37esAXAB&ui=aafdb934-6a24-47d0-bdd6-e3aabd4421bf-tuct92b8d88&it=text&ii=7648429092617794762&pt=text&li=rbox-t2v&sig=c5caad6abd6390b60071d8ad8341c8bdd9ea72df9e9d&url=https%3A%2F%2Fkashmirlife.net%2F737-premises-in-jk-with-crpf-report-288683%2F&vi=1647540806323&r=4&lti=deflated&ppb=CMAC&cpb=EhIyMDIyMDMxNi0zLVJFTEVBU0UYASCc__________8BKhl1cy50YWJvb2xhc3luZGljYXRpb24uY29tMgh0cmMxMDIwMTiAAkCRpA5In-4OUPbL2QNYnwRjCO3__________wEQ7f__________ARgTZGMI1xYQ1B8YI2RjCOAoEN42GBRkYwjhIBDDLBgHZGMI0gMQ4AYYCGRjCJYUEJ8cGBhkYwj1__________8BEPX__________wEYC2RjCPQUEJ4dGB9kYwikJxCDNRgvZHIMKgIm9_bMoDMAABHReAGAAaZviAGZp7nEAZABFw ",
+        "image-url": "https://imagizer.imageshack.com/img923/2627/3VRHKH.jpg",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.877645,
+          34.104555
+        ],
+        "type": "Point"
+      },
+      "id": "da80081f12d593f81d6702a6e3c64410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/yq0dde7i7bzr1su/File%20Mar%2017%2C%2010%2017%2014%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "SOG Camp, Nowbugh Chadoora",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.842185,
+          33.950773
+        ],
+        "type": "Point"
+      },
+      "id": "db5077b446b11904144e75c789ba35a9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/5pm12fcvzi6cntp/File%20Mar%2016%2C%2012%2015%2052%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Military camp, Pahalagam",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.317879,
+          34.008343
+        ],
+        "type": "Point"
+      },
+      "id": "dc9d8fee029aa204254935e0a5499153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/blp919zgs4lckh4/File%20Mar%2014%2C%201%2028%2021%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "IA Divisional Hqs, Baramulla",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.356055,
+          34.203552
+        ],
+        "type": "Point"
+      },
+      "id": "dec07fbf306ec21a52d5eedfc9d5ce95"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/7b3on3dunqh7flm/File%20Mar%2016%2C%205%2011%2034%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Ompora Government Colony",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Colonisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.738166,
+          34.016519
+        ],
+        "type": "Point"
+      },
+      "id": "e0544147648692a33d498baf6b4f6ae7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/pe0aixqu5w44u34/File%20Mar%2015%2C%2011%2020%2033%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Jammu Cantonment and IAF base",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.845278,
+          32.699503
+        ],
+        "type": "Point"
+      },
+      "id": "e0e753381f50d8b8901f48967b8f6d93"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/m48o3mt82gnawb2/File%20Mar%2014%2C%202%2049%2044%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "LoC military deployments Trehgam",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.074421,
+          34.581719
+        ],
+        "type": "Point"
+      },
+      "id": "e2449ef2b41b9ab193cd1854bba1abe3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "Yes",
+        "position-reference": "https://www.dropbox.com/s/lakx0o052uhhlap/File%20Mar%2017%2C%205%2042%2035%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "1998",
+        "title": "Wandhama Massacre, January 25",
+        "description": "Unknown gunmen, suspected to be militants, kill 25 Kashmiri Pandits.",
+        "source-url": "https://en.wikipedia.org/wiki/1998_Wandhama_massacre",
+        "image-url": "https://imagizer.imageshack.com/img922/972/Vitwxu.jpg",
+        "category": "Events"
+      },
+      "geometry": {
+        "coordinates": [
+          74.728871,
+          34.244484
+        ],
+        "type": "Point"
+      },
+      "id": "e39313d12d599e649e35d1df689c8119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/oy4ddrqnynml2vw/File%20Mar%2015%2C%205%2052%2033%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Military camp, Waltengoo",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.116623,
+          33.561321
+        ],
+        "type": "Point"
+      },
+      "id": "e4ebe271909a2c31279da2c5e85f2f3a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/iprhfnusmrgwv5x/File%20Mar%2015%2C%2012%2033%2006%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "29 RR Nihalpura camp",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.534836,
+          34.145438
+        ],
+        "type": "Point"
+      },
+      "id": "e8539d2d9ec32421c9c02e545496a1ea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "Yes",
+        "position-reference": "https://www.dropbox.com/s/nstrtsqxfipyd4m/File%20Mar%2016%2C%203%2022%2039%20PM.jpeg?dl=0",
+        "video-id": "ZVMhdD6A8w",
+        "date": "",
+        "title": "Papa 2 Joint Interrogation Center",
+        "description": "Notorious torture center run by Indian paramilitary BSF",
+        "source-url": "https://en.wikipedia.org/wiki/Papa_II ; https://kashmirlife.net/gore-and-gloss-2290/ ",
+        "image-url": "https://imagizer.imageshack.com/img922/1842/cIbcK1.jpg",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.855197,
+          34.076904
+        ],
+        "type": "Point"
+      },
+      "id": "e929ea05d43639c5a9e27309f305e3ef"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/s3a0k10sci1ky1c/File%20Mar%2014%2C%202%2039%2024%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Indian military camp, Kralpora",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.102858,
+          34.499494
+        ],
+        "type": "Point"
+      },
+      "id": "eb28da7a2b52967f0098460f1a47f9ff"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/1ok9e87cjhg1ns1/File%20Mar%2015%2C%201%2048%2031%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Gool Military camp",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.991332,
+          33.267099
+        ],
+        "type": "Point"
+      },
+      "id": "edcc9205daed295ba9071ba55a69d9c5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/h588t4klkpcvkc3/File%20Mar%2018%2C%207%2018%2031%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Kishenganga Dam, Gurez",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Infrastructure"
+      },
+      "geometry": {
+        "coordinates": [
+          74.752237,
+          34.649382
+        ],
+        "type": "Point"
+      },
+      "id": "ef4c12f217518d930e5e494199380842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/hhhpxqlvsy3qnko/File%20Mar%2016%2C%2012%2029%2058%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Indian Pilgrim colony, Baltal",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Colonisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.41532,
+          34.257379
+        ],
+        "type": "Point"
+      },
+      "id": "f05156ea5f6732ac0da002dea82ac3b4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/rqcssh2jsl8amb9/File%20Mar%2018%2C%207%2022%2003%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Military Base, Gurez",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.702541,
+          34.637855
+        ],
+        "type": "Point"
+      },
+      "id": "f080398d67adb0f1df4b98138f3cc9b5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/4d0dtjfszrvs7ve/File%20Mar%2015%2C%2010%2056%2023%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "IA Brigade Hqs, Naushera",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.237526,
+          33.163383
+        ],
+        "type": "Point"
+      },
+      "id": "f14321fd488dd6a2aaba2e5e7af92131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/v5lzsj6b9q2y128/File%20Mar%2014%2C%203%2028%2023%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Military base, Lachi Pora",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.172099,
+          34.344595
+        ],
+        "type": "Point"
+      },
+      "id": "f259144737b968f460e245a3534036b9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/ckxm3eyl3rys325/File%20Mar%2015%2C%2011%2029%2018%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "IA Military Base, Samba",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.126082,
+          32.550005
+        ],
+        "type": "Point"
+      },
+      "id": "f78ed1680e14db19846819da4e7ca8d0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/k0sykji8mm65dce/File%20Mar%2015%2C%2011%2033%2030%20AM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "IA Military Base, Kathua",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.515117,
+          32.403734
+        ],
+        "type": "Point"
+      },
+      "id": "fb6e7cf2a3860d9e22f1dde0bd37f31f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/8h99hshvw5nlxtp/File%20Mar%2014%2C%201%2035%2050%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "IA Brigade Hqs, Uri",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          74.047793,
+          34.085093
+        ],
+        "type": "Point"
+      },
+      "id": "fc193b35247356fcd1692e69ec9168b2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "clickable": "No",
+        "position-reference": "https://www.dropbox.com/s/zk03nkq2mj9ls6a/File%20Mar%2014%2C%2012%2046%2037%20PM.jpeg?dl=0",
+        "video-id": "",
+        "date": "",
+        "title": "Indian Army training center",
+        "description": "",
+        "source-url": "",
+        "image-url": "",
+        "category": "Militarisation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.007562,
+          34.032059
+        ],
+        "type": "Point"
+      },
+      "id": "fee1d23957d08c49fa7d1991d970e4e6"
+    }
+  ],
+  "type": "FeatureCollection"
+}
