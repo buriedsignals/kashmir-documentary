@@ -1,0 +1,122 @@
+/* Font-face */
+
+@font-face {
+  font-family: 'KoHo';
+  src: url('/fonts/koho-bold.eot');
+  src: url('/fonts/koho-bold.eot?#iefix') format('embedded-opentype'),
+      url('/fonts/koho-bold.woff2') format('woff2'),
+      url('/fonts/koho-bold.woff') format('woff'),
+      url('/fonts/koho-bold.ttf') format('truetype'),
+      url('/fonts/koho-bold.svg#koho-bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'KoHo';
+  src: url('/fonts/koho-regular.eot');
+  src: url('/fonts/koho-regular.eot?#iefix') format('embedded-opentype'),
+      url('/fonts/koho-regular.woff2') format('woff2'),
+      url('/fonts/koho-regular.woff') format('woff'),
+      url('/fonts/koho-regular.ttf') format('truetype'),
+      url('/fonts/koho-regular.svg#koho-regular') format('svg');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Kalista Serif';
+  src: url('/fonts/kalista-serif-regular.eot');
+  src: url('/fonts/kalista-serif-regular.eot?#iefix') format('embedded-opentype'),
+      url('/fonts/kalista-serif-regular.woff2') format('woff2'),
+      url('/fonts/kalista-serif-regular.woff') format('woff'),
+      url('/fonts/kalista-serif-regular.ttf') format('truetype'),
+      url('/fonts/kalista-serif-regular.svg#kalista-serif-regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Reset */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+body {
+	line-height: 1;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+blockquote, q {
+	quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  width: auto;
+  margin: 0;
+  padding: 0;
+  color: inherit;
+  background: transparent;
+  border: none;
+  font: inherit;
+  line-height: normal;
+  overflow: visible;
+  cursor: pointer;
+}
+
+/*  Bascics */
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #868883;
+  font-family: 'KoHo';
+}
+
+* {
+  box-sizing: border-box;
+}
