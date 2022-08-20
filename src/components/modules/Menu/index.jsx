@@ -75,14 +75,14 @@ export default function Menu({ ...props }) {
                 </Link>
               </li>
               <li className={ isActiveRoute('/stories') }>
-                <a href='https://www.google.fr' target="_blank" rel="noreferrer" onClick={ onClickButton }>
+                <a href='https://buriedsignals.notion.site/Voices-from-Kashmir-671b02308b524bbe88570f20c1665099' target="_blank" rel="noreferrer" onClick={ onClickButton }>
                   <span>03</span>Stories
                 </a>
               </li>
               <li className={ isActiveRoute('/about') }>
                 <Link href="/about">
                   <a onClick={ onClickButton }>
-                    <span>04</span>About
+                    <span>04</span>History
                   </a>
                 </Link>
               </li>
