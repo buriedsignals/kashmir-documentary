@@ -47,34 +47,64 @@ export default function Credits({ ...props }) {
         <motion.div initial="initial" animate="animate" className="panel">
           <motion.button initial="initial" animate="animate" exit="exit" variants={fadeInRight} className="button-close-credits" onClick={ onClickButton }>
             <ArrowIcon />
-            Go back to menu
+            BACK
           </motion.button>
           <motion.div initial="initial" animate="animate" exit="exit" variants={fadeInRight} className="content-credits">
             <h2>Credits</h2>
             <ul>
               <li>
                 <p>
-                    <span>Producer: </span>Abel Auboisdormant
+                    <span>Director, Producer </span>Tom Vaillant
                 </p>
               </li>
               <li>
                 <p>
-                <span>Producer: </span>Abel Auboisdormant
+                <span>Co-Director, Expert </span>Mohamad Junaid
                 </p>
               </li>
               <li>
                 <p>
-                <span>Producer: </span>Abel Auboisdormant
+                <span>Expert </span>Ather Zia
                 </p>
               </li>
               <li>
                 <p>
-                <span>Producer: </span>Abel Auboisdormant
+                <span>Expert </span>Mona Bhan
                 </p>
               </li>
               <li>
                 <p>
-                <span>Producer: </span>Abel Auboisdormant
+                <span>Editor </span>Charlie J Bird
+                </p>
+              </li>
+              <li>
+                <p>
+                <span>Art Director </span>Grégoires Ormieres
+                </p>
+              </li>
+              <li>
+                <p>
+                <span>Developer </span>Remy Dumas
+                </p>
+              </li>
+              <li>
+                <p>
+                <span>Colorist </span>Henry Napier-Brown
+                </p>
+              </li>
+              <li>
+                <p>
+                <span>Composer </span>Scott S Stevens
+                </p>
+              </li>
+              <li>
+                <p>
+                <span>Sound Design </span>Ben Eggerhorn
+                </p>
+              </li>
+              <li>
+                <p>
+                <span>Photography </span>Masrat Zahra
                 </p>
               </li>
             </ul>

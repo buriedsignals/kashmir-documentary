@@ -40,7 +40,7 @@ export default function HomeTemplate() {
       <FrameModule backgroundImage={ `./images/${ backgroundImage }` }>
         <div className="content-home">
           <div className="content-home-container">
-            <p className="introduction">This is an 18 minutes interactive documentary.</p>
+            <p className="introduction">This is a 20 minute interactive documentary.</p>
             <StartButton className="button-start-home" onClick={ onClickButton } >Start watching</StartButton>
           </div>
         </div>

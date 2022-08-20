@@ -6,10 +6,10 @@ import { useRouter } from 'next/router'
 import useStore from '@/hooks/useStore'
 import Head from 'next/head'
 
-const title = 'Line of controls'
+const title = 'Lines of Control'
 const url = 'http://localhost:3000/'
-const description = 'Kashmir description'
-const keywords = 'Kashmir keywords'
+const description = 'An interactive documentary and map about Kashmir.'
+const keywords = 'Kashmir, conflict, documentary, map'
 const author = 'Buried Signals'
 
 const GlobalStyle = createGlobalStyle`
