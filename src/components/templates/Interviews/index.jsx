@@ -19,23 +19,23 @@ export default function InterviewsTemplate() {
     {
       title: "Humanitarian",
       slug: "humanitarian",
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-      nameHover: "Mona Bhan",
-      descriptionHover: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "Learn about the humanitarian toll of the conflict in Kashmir.",
+      nameHover: "Ather Zia",
+      descriptionHover: "Ather is a Professor of Anthropology at the University of North Colorado",
     },
     {
       title: "Geopolitics",
       slug: "geopolitics",
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+      description: "Learn about the geopolitical stakes underpinning the conflict.",
       nameHover: "Mona Bhan",
-      descriptionHover: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      descriptionHover: "Mona is a Professor of Anthropology at Syracuse University",
     },
     {
       title: "History",
       slug: "history",
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-      nameHover: "Mona Bhan",
-      descriptionHover: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "Learn about Kashmiri history.",
+      nameHover: "Mohamad Junaid",
+      descriptionHover: "Mohamad is a Professor of Anthropology at Massachusets College of Liberal Arts.",
     }
   ]
   // Store
