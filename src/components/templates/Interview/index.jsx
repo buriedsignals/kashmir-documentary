@@ -33,12 +33,27 @@ export default function InterviewTemplate() {
     })
     router.push('/interviews');
   }
+  const getIdEkoBySlug = () => {
+    let id = undefined;
+    switch (router.query.slug) {
+      case "humanitarian":
+        id = "MQXyJN"
+        break;
+      case "geopolitics":
+        id = "zD64Y6"
+        break;
+      case "history":
+        id = "MQXyJN"
+        break;
+    }
+    return id;
+  }
   return (
     <InterviewTemplateStyle>
       <FrameModule>
         <div className="content-interview">
           <div className="content-interview-container">
-            <EkoVideo id="AWLLK1" params={ { hidePauseOverlay: true } } onPlayerInit={onPlayerInit} events={playerEventHandlers}/>
+            { router.query.slug && <EkoVideo id={ getIdEkoBySlug() } params={ { hidePauseOverlay: true } } onPlayerInit={onPlayerInit} events={playerEventHandlers}/> }
           </div>
         </div>
       </FrameModule>

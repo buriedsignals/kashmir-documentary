@@ -38,7 +38,7 @@ export default function CardInterview({ title, slug, description, nameHover, des
             </div>
           </div>
         </div>           */}
-        <Link href={ `/interviews/${  slug}` }>
+        <Link href={ `/interviews/${ slug }` }>
           <a>
             <StartButton className="button-start-card-interview">Start interview</StartButton>
           </a>
