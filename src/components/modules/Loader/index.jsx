@@ -257,8 +257,8 @@ export default function Loader({ ...props }) {
         </div>
         <motion.div variants={transition} className="content" initial="initial" animate={ hideIntro ? "hide" : "animate" } onAnimationComplete={ onAnimationCompleteContent }>
           <div className="content-container">
-            <h1 className="title">Lines of control</h1>
-            <p className="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+            <h1 className="title">Lines of Control</h1>
+            <p className="description">An interactive web documentary about Kashmir.</p>
           </div>
         </motion.div>
         <motion.div className="background-image-container" variants={ stagger } initial="initial" animate={ startLoading ? "animate" : "" }>
