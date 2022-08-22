@@ -207,6 +207,7 @@ export default function Frame({ full = true, noBottom = false, progress = 0, bac
         :
         <LoaderModule />
       }
+      <p>{ loaderFinished }</p>
     </>
   )
 }

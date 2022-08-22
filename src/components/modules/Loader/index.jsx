@@ -202,7 +202,7 @@ export function Border({ orientation, startLoading, indexLine, ...props }) {
     }, 350)
   }
   return (
-    <BorderStyle variants={ variantsFrameBorder(orientation, indexLine, w) } initial="initial" animate={ startLoading ? `animate${indexLine}` : "" } onAnimationComplete={ orientation == 'right' && indexLine == 8 && onAnimationCompleteBackground } orientation={ orientation } { ...props } />
+    <BorderStyle variants={ variantsFrameBorder(orientation, indexLine, w) } initial="initial" animate={ startLoading ? `animate${indexLine}` : "" } onAnimationComplete={ orientation == 'right' && indexLine == 8 && onAnimationCompleteBackground() } orientation={ orientation } { ...props } />
   )
 }
 

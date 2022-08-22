@@ -22,7 +22,7 @@ const GlobalStyle = createGlobalStyle`
 const theme = createTheme({
   sm: '576px',
   md: '768px',
-  lg: '992px',
+  lg: '900px',
   xl: '1200px',
   xxl: '1440px',
 });
@@ -64,7 +64,7 @@ function App({ Component, pageProps }) {
         <meta property='og:title' content={ title } />
         <meta property='og:type' content='site' />
         <meta property='og:url' content={ url } />
-        <meta property='og:image' content={ url + 'img/img-meta.png' } />
+        <meta property='og:image' content={ url + 'images/img-meta.png' } />
         <meta property='og:site_name' content={ title } />
         <meta property='og:description' content={ description } />
         <link rel='apple-touch-icon' href='/icons/apple-touch-icon.png' />
@@ -82,7 +82,7 @@ function App({ Component, pageProps }) {
         <meta name='twitter:title' content={ title } />
         <meta name='twitter:description' content={ description } />
         <meta name='twitter:creator' content='@buriedsignals' />
-        <meta name='twitter:image:src' content={ url +'img/img-meta.png' } />
+        <meta name='twitter:image:src' content={ url +'images/img-meta.png' } />
       </Head>
       <GlobalStyle />
       <ThemeProvider theme={theme}>

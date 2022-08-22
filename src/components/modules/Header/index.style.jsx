@@ -30,6 +30,9 @@ export const HeaderStyle = styled.header`
     margin: 11.5px 14px;
     opacity: 1;
     transition: opacity 0.25s linear;
+    ${down('lg')} {
+      display: none;
+    }
     ${down('xxl')} {
       height: ${ responsiveValue(67) };
       margin: ${ responsiveValue(11.5) } ${ responsiveValue(14) };
@@ -44,6 +47,9 @@ export const HeaderStyle = styled.header`
     margin: 11.5px 14px;
     opacity: 1;
     transition: opacity 0.25s linear;
+    ${down('lg')} {
+      display: none;
+    }
     ${down('xxl')} {
       height: ${ responsiveValue(67) };
       margin: ${ responsiveValue(11.5) } ${ responsiveValue(14) };

@@ -1,28 +1,21 @@
 import styled, { css } from 'styled-components'
 import { responsiveValue } from "@/components/templates/Interview/index.style";
 import { down } from 'styled-breakpoints';
+import { motion } from 'framer-motion'
 
-export const MapboxStyle = styled.div`
+export const MapboxStyle = styled(motion.div)`
   position: relative;
   align-self: flex-start;
+  width: 100%;
   height: 100%;
   z-index: 0;
-  ${(props) => {
-    if (props.popupOpen) {
-      return css`width: calc(100% - 548px );`
-    } else {
-      return css`width: 100%;`
-    }
-  }}
-  ${down('xxl')} {
-    ${(props) => {
-      if (props.popupOpen) {
-        return css`width: calc(100% - ${ responsiveValue(548) } );`
-      } else {
-        return css`width: 100%;`
-      }
-    }}
-  }
+  overflow: hidden;
+  // &.is-popup {
+  //   width: calc(100% - 548px);
+  //   ${down('xxl')} {
+  //     width: calc(100% - ${ responsiveValue(548) });
+  //   }
+  // }
   .mapboxgl-ctrl-bottom-left, .mapboxgl-ctrl-bottom-right {
     display: none;
   }

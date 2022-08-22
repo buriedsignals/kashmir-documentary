@@ -1,16 +1,36 @@
 // Styles
 import { MapboxStyle, SatelliteStyle } from './index.syle'
+import { responsiveValue } from '@/components/templates/Interview/index.style'
 // React
 import { useRef, useEffect, useState } from 'react'
 //Hooks
 import useStore from '@/hooks/useStore'
+import useWindowSize from '@/hooks/useWindowSize'
 // Nodes
 import mapboxgl from 'mapbox-gl'
 import 'mapbox-gl/dist/mapbox-gl.css'
 // Datas
 import kashmirDatas from '../../../../public/datas/kashmir.geojson'
 
+const fadeInRight = (w) => {
+  return {
+    initial: {
+      width: "100%",
+      transition: {
+        duration: 0.5
+      }
+    },
+    popup: {
+      width: w.width > 1440 ? "calc(100% - 548px)" : `calc(100% - ${ responsiveValue(548) })`,
+      transition: {
+        duration: 0.75
+      }
+    }
+  };
+} 
+
 export default function Mapbox() {
+  const w = useWindowSize();
   // States
   const [coordinates, setCoordonates] = useState(null);
   const [isSatellite, setIsSatellite] = useState(false);
@@ -111,7 +131,6 @@ export default function Mapbox() {
           mapboxRef.current.flyTo({ center: coordinates });
         }, 0);
       }
-      mapboxRef.current.resize();
     }
   }, [useStore.getState().popupOpen])
   useEffect(() => {
@@ -121,9 +140,9 @@ export default function Mapbox() {
   }, [isSatellite])
   // Handlers
   const onClickMarker = (event) => {
-    setTimeout(() => {
-      mapboxRef.current.resize();
-    }, 0);
+    // setTimeout(() => {
+    //   mapboxRef.current.resize();
+    // }, 0);
     const features = mapboxRef.current.queryRenderedFeatures(event.point, {
       layers: ["unclustered-point"],
     });
@@ -154,6 +173,9 @@ export default function Mapbox() {
       return
     }
     const feature = features[0];
+    if (feature.properties.clickable !== "No") { 
+      mapRef.current.querySelector('canvas').style.cursor = "pointer";
+    }
     const popup = new mapboxgl.Popup({
       anchor: 'left',
       offset: [25, 0],
@@ -168,6 +190,7 @@ export default function Mapbox() {
       .addTo(mapboxRef.current)
   }
   const onMouseLeave = (event) => {
+    mapRef.current.querySelector('canvas').style.cursor = "inherit";
     const popup = mapRef.current.getElementsByClassName('mapboxgl-popup');
     if ( popup.length ) {
         popup[0].remove();
@@ -186,7 +209,7 @@ export default function Mapbox() {
           <input type="checkbox" name="satellite" id="satellite" onClick={ onClickSatellite } />
         </div>
       </SatelliteStyle>
-      <MapboxStyle ref={ mapRef } popupOpen={ popupOpen } />
+      <MapboxStyle ref={ mapRef } popupOpen={ popupOpen } className={ popupOpen ? "is-popup" : "" } initial="initial" animate={ popupOpen ? "popup" : "initial" } variants={fadeInRight(w)} />
     </>
   )
 }
