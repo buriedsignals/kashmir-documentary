@@ -16,9 +16,10 @@ import TwitterIcon from "@/components/icons/Twitter"
 
 export default function Header({ ...props }) {
   const router = useRouter()
-  const textSocialShare = 'Stop The Blockade !'
-  const hashtagSocialShare = 'YemenCantWait'
+  const textSocialShare = 'Lines of Control'
+  const hashtagSocialShare = 'KashmirConflict'
   const urlSocialShare = 'https://yementribute.com'
+  
   return (
     <HeaderStyle { ...props }>
       <Link href='/'><a className="logo">
