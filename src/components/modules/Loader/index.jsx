@@ -68,15 +68,6 @@ const variantsLoaderImage = (index) => {
   }
 }
 
-const stagger = {
-  animate: {
-    transition: {
-      staggerChildren: 1,
-      staggerDirection: -1
-    }
-  }
-};
-
 const variantsFrameLine = (orientation, indexLine, w) => {
   const initialTransition = {}
   switch (orientation) {
@@ -97,7 +88,7 @@ const variantsFrameLine = (orientation, indexLine, w) => {
     initial: initialTransition,
     animate: {
       transition: {
-        duration: 5,
+        duration: 3.8,
         ease: [0.64, 0, 0.9, 0]
       }
     }
@@ -138,7 +129,7 @@ const variantsFrameBorder = (orientation, indexLine, w) => {
     initial: initialTransition,
     animate: {
       transition: {
-        duration: 5,
+        duration: 3.8,
         ease: [0.64, 0, 0.9, 0]
       }
     }
