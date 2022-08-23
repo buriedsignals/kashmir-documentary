@@ -11,16 +11,22 @@ export const YoutubeVideoStyle = styled.div`
   background: black;
   ${(props) => {
     if (props.startVideo) {
-      return css`
-        opacity: 1;
-      `
+      if (props.isEnd) {
+        return css`
+          opacity: 0;
+        `
+      } else {
+        return css`
+          opacity: 1;
+        `
+      }
     } else {
       return css`
         opacity: 0;
+        pointer-events: none;
       `
     }
   }}
-  pointer-events: none;
   .youtube-video-container {
     position: absolute;
     top: 90px;

@@ -47,8 +47,14 @@ export const CreditsStyle = styled.div`
       margin: 90px 0;
       padding: 90px 45px;
       // backdrop-filter: blur(15px);
-      overflow: scroll;
+      overflow-y: scroll;
+      overflow-x: hidden;
       z-index: -2;
+      -ms-overflow-style: none;
+      scrollbar-width: none; 
+      &::-webkit-scrollbar {
+        display: none;
+      }
       ${down('xxl')} {
         width: ${ responsiveValue(448) };
         max-height: calc(100vh - ${ responsiveValue(180) });

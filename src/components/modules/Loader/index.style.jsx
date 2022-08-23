@@ -82,6 +82,23 @@ export const LoaderStyle = styled(motion.div)`
       }
     }
   }
+  .background-video-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    video, img {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      min-width: 1440px;
+      height: 100vh;
+      transform: translate3D(-50%, -50%, 0);
+      // &:first-child {
+      //   transform: translate3D(-50%, -50%, 0) scale3D(1,1,1) !important;
+      // }
+    }
+  }
   .background-image-container {
     position: relative;
     width: 100%;

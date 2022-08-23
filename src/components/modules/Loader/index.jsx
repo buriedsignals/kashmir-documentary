@@ -1,13 +1,13 @@
 // Styles
 import { LoaderStyle, LineStyle, BorderStyle } from "./index.style"
 // React
-import { useState } from "react"
+import { useRef, useState } from "react"
 // Next
 import Head from 'next/head'
 // Store
 import useStore from "@/hooks/useStore"
 // Nodes
-import { motion } from "framer-motion"
+import { animate, motion } from "framer-motion"
 import { useRouter } from "next/router"
 import { responsiveValue } from "@/components/templates/Interview/index.style";
 import useWindowSize from "@/hooks/useWindowSize"
@@ -94,32 +94,27 @@ const variantsFrameLine = (orientation, indexLine, w) => {
       break;
   }
   const transition = {
-    initial: initialTransition
-  }
-  for (let i = 0; i < 9; i++) {
-    const animateTransition = {
-      transition: { 
-        type: "spring",
-        stiffness: 600,
-        damping: 30,
-        duration: 0.25 
+    initial: initialTransition,
+    animate: {
+      transition: {
+        duration: 5,
+        ease: [0.64, 0, 0.9, 0]
       }
     }
-    switch (orientation) {
-      case "top":
-        animateTransition.top= `calc(${ (i + 1) * 4.3222222222 }vh + ${ w.width > 1440 ? '90px' : responsiveValue(90) })`
-        break;
-      case "right":
-        animateTransition.left = `calc(100vw - (${ (i + 1) * 4.861 }vw + ${ w.width > 1440 ? '90px' : responsiveValue(90) }))`
-        break;
-      case "bottom":
-        animateTransition.top= `calc(100vh - (${ (i + 1) * 4.3222222222 }vh + ${ w.width > 1440 ? '90px' : responsiveValue(90) }))`
-        break;
-      case "left":
-        animateTransition.left= `calc(${ (i + 1) * 4.861 }vw + ${ w.width > 1440 ? '90px' : responsiveValue(90) })`
-        break;
-    }
-    transition[`animate${i}`] = animateTransition
+  }
+  switch (orientation) { 
+    case "top":
+      transition.animate.top= "50vh"
+      break;
+    case "right":
+      transition.animate.left = "50vw"
+      break;
+    case "bottom":
+      transition.animate.top= "50vh"
+      break;
+    case "left":
+      transition.animate.left= "50vw"
+      break;
   }
   return transition
 }
@@ -140,32 +135,27 @@ const variantsFrameBorder = (orientation, indexLine, w) => {
       break;
   }
   const transition = {
-    initial: initialTransition
-  }
-  for (let i = 0; i < 9; i++) {
-    const animateTransition = {
-      transition: { 
-        type: "spring",
-        stiffness: 600,
-        damping: 30,
-        duration: 0.25 
+    initial: initialTransition,
+    animate: {
+      transition: {
+        duration: 5,
+        ease: [0.64, 0, 0.9, 0]
       }
     }
-    switch (orientation) { 
-      case "top":
-        animateTransition.height= `calc(${ (i + 1) * 4.3222222222 }vh + ${ w.width > 1440 ? '90px' : responsiveValue(90) })`
-        break;
-      case "right":
-        animateTransition.width = `calc(${ (i + 1) * 4.861 }vw + ${ w.width > 1440 ? '90px' : responsiveValue(90) })`
-        break;
-      case "bottom":
-        animateTransition.height= `calc(${ (i + 1) * 4.3222222222 }vh + ${ w.width > 1440 ? '90px' : responsiveValue(90) })`
-        break;
-      case "left":
-        animateTransition.width= `calc(${ (i + 1) * 4.861 }vw + ${ w.width > 1440 ? '90px' : responsiveValue(90) })`
-        break;
-    }
-    transition[`animate${i}`] = animateTransition
+  }
+  switch (orientation) { 
+    case "top":
+      transition.animate.height= "50vh"
+      break;
+    case "right":
+      transition.animate.width = "50vw"
+      break;
+    case "bottom":
+      transition.animate.height= "50vh"
+      break;
+    case "left":
+      transition.animate.width= "50vw"
+      break;
   }
   return transition
 }
@@ -173,7 +163,7 @@ const variantsFrameBorder = (orientation, indexLine, w) => {
 export function Line({ orientation, startLoading, indexLine, ...props }) {
   const w = useWindowSize();
   return (
-    <LineStyle variants={ variantsFrameLine(orientation, indexLine, w) } initial="initial" animate={ startLoading ? `animate${indexLine}` : "" } orientation={ orientation } { ...props } />
+    <LineStyle variants={ variantsFrameLine(orientation, indexLine, w) } initial="initial" animate={ startLoading ? 'animate' : "" } orientation={ orientation } { ...props } />
   )
 }
 
@@ -202,11 +192,13 @@ export function Border({ orientation, startLoading, indexLine, ...props }) {
     }, 350)
   }
   return (
-    <BorderStyle variants={ variantsFrameBorder(orientation, indexLine, w) } initial="initial" animate={ startLoading ? `animate${indexLine}` : "" } onAnimationComplete={ orientation == 'right' && indexLine == 8 && onAnimationCompleteBackground() } orientation={ orientation } { ...props } />
+    <BorderStyle variants={ variantsFrameBorder(orientation, indexLine, w) } initial="initial" animate={ startLoading ? 'animate' : "" } onAnimationComplete={ orientation == 'right' && onAnimationCompleteBackground } orientation={ orientation } { ...props } />
   )
 }
 
 export default function Loader({ ...props }) {
+  // References
+  const videoRef = useRef()
   // Datas
   const backgroudsImageLoaderLength = 9;
   // States
@@ -221,6 +213,7 @@ export default function Loader({ ...props }) {
     } else if (e == "hide") {
       setTimeout(() => {
         setStartLoading(true)
+        setStartBackground(true)
       }, 0)
     }
   }
@@ -236,11 +229,7 @@ export default function Loader({ ...props }) {
   return (
     <>
       <Head>
-        {
-          [...Array(backgroudsImageLoaderLength)].map((el, i) => { 
-            return <link key={i} rel="preload" href={ `/images/loader-${ i < 10 ? `0${ i }` : i }.jpg` } as="image" />
-          })
-        }
+        <link rel="preload" href="/videos/loader.mp4" as="video" />
       </Head>
       <LoaderStyle { ...props } variants={transitionLayout} initial="initial" animate="animate">
         <div className="background-lines">
@@ -261,14 +250,8 @@ export default function Loader({ ...props }) {
             <p className="description">An interactive web documentary about Kashmir.</p>
           </div>
         </motion.div>
-        <motion.div className="background-image-container" variants={ stagger } initial="initial" animate={ startLoading ? "animate" : "" }>
-        {/* <div className="background-image-container"> */}
-          {
-            [...Array(backgroudsImageLoaderLength)].map((el, i) => { 
-              const index = backgroudsImageLoaderLength - 1 - i;
-              return <motion.img onAnimationComplete={ onCompleteBackground } onUpdate={ onStartBackground } variants={ variantsLoaderImage(index) } key={ `image-${ i }` } src={ `/images/loader-${ index < 10 ? `0${ index }` : index }.jpg` } alt="Image loader" />
-            })
-          }
+        <motion.div className="background-video-container">
+          <img ref={ videoRef } src={ startLoading ? "/videos/test.gif" : "/images/loader-00.jpg" } alt="" />
         </motion.div>
       </LoaderStyle>
     </>
