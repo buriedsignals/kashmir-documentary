@@ -75,7 +75,7 @@ export default function Menu({ ...props }) {
                 </Link>
               </li>
               <li className={ isActiveRoute('/stories') }>
-                <a href='https://buriedsignals.notion.site/Voices-from-Kashmir-671b02308b524bbe88570f20c1665099' target="_blank" rel="noreferrer" onClick={ onClickButton }>
+                <a href='https://www.instagram.com/p/CLD3cm-JWRY/?igshid=YmMyMTA2M2Y%3D' target="_blank" rel="noreferrer" onClick={ onClickButton }>
                   <span>03</span>Stories
                 </a>
               </li>
