@@ -44,7 +44,7 @@ export const HeaderStyle = styled.header`
     display: flex;
     align-items: center;
     height: 67px;
-    margin: 11.5px 14px;
+    margin: 11.5px 11px;
     opacity: 1;
     transition: opacity 0.25s linear;
     ${down('lg')} {
@@ -52,16 +52,26 @@ export const HeaderStyle = styled.header`
     }
     ${down('xxl')} {
       height: ${ responsiveValue(67) };
-      margin: ${ responsiveValue(11.5) } ${ responsiveValue(14) };
+      margin: ${ responsiveValue(11.5) } ${ responsiveValue(11) };
     }
   }
   .navigation {
     display: flex;
     align-items: center;
-    .act {
+    .items {
+      display: flex;
+      align-items: center;
       margin: 0 45px;
       ${down('xxl')} {
         margin: 0 ${ responsiveValue(45) };
+      }
+      .act {
+      }
+      .socialItem {
+        padding: 9px 9px;
+        ${down('xxl')} {
+          padding: ${ responsiveValue(9) } ${ responsiveValue(9) };
+        }
       }
     }
   }

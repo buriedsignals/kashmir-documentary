@@ -42,7 +42,13 @@ export const PopupMapStyle = styled.div`
         max-height: calc(100vh - 90px);
         margin: 90px 0;
         padding: 0 68px 90px;
-        overflow: scroll;
+        overflow-y: scroll;
+        overflow-x: hidden;
+        -ms-overflow-style: none;
+        scrollbar-width: none; 
+        &::-webkit-scrollbar {
+          display: none;
+        }
         ${down('xxl')} {
           max-height: calc(100vh - ${ responsiveValue(90) });
           margin: ${ responsiveValue(90) } 0;

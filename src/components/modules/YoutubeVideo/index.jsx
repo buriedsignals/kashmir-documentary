@@ -1,7 +1,7 @@
 // Styles
 import { YoutubeVideoStyle } from "./index.style"
 // React
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 // Nodes
 import YouTube from "react-youtube";
 
@@ -9,7 +9,7 @@ export default function YoutubeVideo({ startVideo, onEndVideo, ...props }) {
   // Datas
   const opts = {
     playerVars: {
-      controls: 0,
+      controls: 1,
       showinfo: 0,
       rel: 0,
       modestbranding: 1,
@@ -17,16 +17,23 @@ export default function YoutubeVideo({ startVideo, onEndVideo, ...props }) {
   };
   // References
   const refPlayer = useRef();
+  // States
+  const [isEnd, setIsEnd] = useState(false)
   // Effects
   useEffect(() => {
     if (startVideo) {
       refPlayer.current.internalPlayer.playVideo()
     }
   }, [startVideo]);
+  // Handler
+  const onEnd = () => {
+    onEndVideo()
+    setIsEnd(true)
+  }
   return (
-    <YoutubeVideoStyle startVideo={ startVideo } { ...props }>
+    <YoutubeVideoStyle startVideo={ startVideo } isEnd={ isEnd } { ...props }>
       <div className="youtube-video-container">
-      <YouTube ref={ refPlayer } videoId="icPHcK_cCF4" opts={ opts } onEnd={ onEndVideo } />
+      <YouTube ref={ refPlayer } videoId="icPHcK_cCF4" opts={ opts } onEnd={ onEnd } />
       </div>
     </YoutubeVideoStyle>
   )
