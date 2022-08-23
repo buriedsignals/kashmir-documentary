@@ -33,7 +33,7 @@ export default function YoutubeVideo({ startVideo, onEndVideo, ...props }) {
   return (
     <YoutubeVideoStyle startVideo={ startVideo } isEnd={ isEnd } { ...props }>
       <div className="youtube-video-container">
-      <YouTube ref={ refPlayer } videoId="icPHcK_cCF4" opts={ opts } onEnd={ onEnd } />
+      <YouTube ref={ refPlayer } videoId="WuGt39uBfDU" opts={ opts } onEnd={ onEnd } />
       </div>
     </YoutubeVideoStyle>
   )

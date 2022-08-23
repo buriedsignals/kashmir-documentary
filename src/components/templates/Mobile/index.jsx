@@ -13,7 +13,7 @@ export default function MobileTemplate() {
         <div className="title-container">
           <h2 className="title">Please use a desktop device to watch the full interactive documentary.</h2>
         </div>
-        <iframe src="https://www.youtube.com/embed/icPHcK_cCF4?controls=0&showinfo=0&rel=0" />
+        <iframe src="https://www.youtube.com/embed/WuGt39uBfDU?controls=0&showinfo=0&rel=0" />
         <div className="description-container">
           <p className="description">This is an interactive web documentary about Kashmir.</p>
         </div>
