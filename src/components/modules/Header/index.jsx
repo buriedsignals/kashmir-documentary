@@ -20,7 +20,7 @@ export default function Header({ ...props }) {
         <LogoIcon />
       </a></Link>
       <div className="navigation">
-        <a className="act" href='https://www.google.fr' target="_blank" rel="noreferrer">
+        <a className="act" href='https://standwithkashmir.org/kashmir-for-kashmiris/' target="_blank" rel="noreferrer">
           <ActButton>Act now</ActButton>
         </a>
         <MenuModule />

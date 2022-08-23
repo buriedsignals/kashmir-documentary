@@ -34,7 +34,7 @@ export default function InterviewsTemplate() {
       title: "History",
       slug: "history",
       description: "Learn about Kashmiri history.",
-      nameHover: "Mohamad Junaid",
+      nameHover: "Junaid",
       descriptionHover: "Mohamad is a Professor of Anthropology at Massachusets College of Liberal Arts.",
     }
   ]
