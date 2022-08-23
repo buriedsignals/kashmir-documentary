@@ -242,7 +242,7 @@ export default function Loader({ ...props }) {
           </div>
         </motion.div>
         <motion.div className="background-video-container">
-          <img ref={ videoRef } src={ startLoading ? "/videos/test.gif" : "/images/loader-00.jpg" } alt="" />
+          <img ref={ videoRef } src={ startLoading ? "/images/loader-01.gif" : "/images/loader-00.jpg" } alt="" />
         </motion.div>
       </LoaderStyle>
     </>
