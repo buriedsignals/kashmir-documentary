@@ -11,7 +11,7 @@ export default function MobileTemplate() {
       <div className="background" />
       <main className="main">
         <div className="title-container">
-          <h2 className="title">Please use a desktop device to watch the full interactive documentary.</h2>
+          <h2 className="title">Please use a desktop to watch the full interactive documentary and map.</h2>
         </div>
         <iframe src="https://www.youtube.com/embed/WuGt39uBfDU?controls=0&showinfo=0&rel=0" />
         <div className="description-container">
