@@ -33,7 +33,7 @@ export default function VimeoVideo({ startVideo, onEndVideo, ...props }) {
   return (
     <VimeoVideoStyle startVideo={ startVideo } isEnd={ isEnd } { ...props }>
       <div className="vimeo-video-container">
-      <Vimeo ref={ refPlayer } video="369521302" onEnd={ onEnd } />
+      <Vimeo ref={ refPlayer } video="4724508b3e" onEnd={ onEnd } />
       </div>
     </VimeoVideoStyle>
   )
