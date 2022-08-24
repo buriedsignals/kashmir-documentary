@@ -31,10 +31,10 @@ export default function Header({ ...props }) {
             <ActButton>Act now</ActButton>
           </a>
           <a className="socialItem" href={`https://www.facebook.com/sharer/sharer.php?p[url]=${urlSocialShare}`} target="_blank" rel="noreferrer">
-              <FacebookIcon />
+            <ActButton><FacebookIcon /></ActButton>
           </a>
           <a className="socialItem" href={`https://twitter.com/intent/tweet?text=${textSocialShare}&hashtags=${hashtagSocialShare}&url=${urlSocialShare}`} target="_blank" rel="noreferrer">
-              <TwitterIcon />
+              <ActButton><TwitterIcon /></ActButton>
           </a>
         </div>
         <MenuModule />
