@@ -13,7 +13,7 @@ export default function MobileTemplate() {
         <div className="title-container">
           <h2 className="title">Please use a desktop to watch the full interactive documentary and map.</h2>
         </div>
-        <Vimeo video="369521302" />
+        <Vimeo video="4724508b3e" />
         <div className="description-container">
           <p className="description">This is an interactive web documentary about Kashmir.</p>
         </div>
