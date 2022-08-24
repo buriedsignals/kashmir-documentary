@@ -88,7 +88,7 @@ const variantsFrameLine = (orientation, indexLine, w) => {
     initial: initialTransition,
     animate: {
       transition: {
-        duration: 3.8,
+        duration: 3.9,
         ease: [0.64, 0, 0.9, 0]
       }
     }
@@ -129,7 +129,7 @@ const variantsFrameBorder = (orientation, indexLine, w) => {
     initial: initialTransition,
     animate: {
       transition: {
-        duration: 3.8,
+        duration: 3.9,
         ease: [0.64, 0, 0.9, 0]
       }
     }

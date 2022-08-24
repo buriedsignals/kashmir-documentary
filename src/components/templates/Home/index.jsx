@@ -8,7 +8,7 @@ import { useRouter } from "next/router"
 import useStore from "@/hooks/useStore"
 // Modules
 import FrameModule from "@/components/modules/Frame"
-import YoutubeVideo from "@/components/modules/YoutubeVideo"
+import VimeoVideo from "@/components/modules/VimeoVideo"
 // Buttons
 import StartButton from "@/components/buttons/Start"
 
@@ -44,7 +44,7 @@ export default function HomeTemplate() {
             <StartButton className="button-start-home" onClick={ onClickButton } >Start watching</StartButton>
           </div>
         </div>
-        <YoutubeVideo startVideo={ startVideo } onEndVideo={ onEndVideo } />
+        <VimeoVideo startVideo={ startVideo } onEndVideo={ onEndVideo } />
       </FrameModule>
     </HomeTemplateStyle>
   )
