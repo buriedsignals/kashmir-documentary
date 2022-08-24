@@ -18,7 +18,7 @@ export default function Header({ ...props }) {
   const router = useRouter()
   const textSocialShare = 'Lines of Control'
   const hashtagSocialShare = 'KashmirConflict'
-  const urlSocialShare = 'https://linesofonctrol.com'
+  const urlSocialShare = 'https://linesofcontrol.com'
   
   return (
     <HeaderStyle { ...props }>
