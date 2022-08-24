@@ -7,7 +7,7 @@ import useStore from '@/hooks/useStore'
 import Head from 'next/head'
 
 const title = 'Lines of Control'
-const url = 'http://localhost:3000/'
+const url = 'linesofcontrol.com'
 const description = 'An interactive documentary and map about Kashmir.'
 const keywords = 'Kashmir, conflict, documentary, map'
 const author = 'Buried Signals'
