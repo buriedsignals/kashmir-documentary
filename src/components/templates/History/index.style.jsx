@@ -2,8 +2,8 @@ import styled from "styled-components";
 import { responsiveValue } from "@/components/templates/Interview/index.style";
 import { down } from "styled-breakpoints";
 
-export const AboutTemplateStyle = styled.div`
-  .content-about {
+export const HistoryTemplateStyle = styled.div`
+  .content-history {
     position: relative;
     width: 100vw;
     min-height: 100vh;
@@ -13,7 +13,7 @@ export const AboutTemplateStyle = styled.div`
     ${down('xxl')} {
       padding: ${ responsiveValue(90) };
     }
-    .content-about-container {
+    .content-history-container {
       display: flex;
       flex-direction: column;
       align-items: center;

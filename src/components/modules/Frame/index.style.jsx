@@ -4,7 +4,13 @@ import { motion } from "framer-motion";
 export const FrameStyle = styled.div`
   width: 100vw;
   height: 100vh;
+  overflow-x: hidden;
   z-index: -1;
+  -ms-overflow-style: none;
+  scrollbar-width: none; 
+  &::-webkit-scrollbar {
+    display: none;
+  }
   .background-lines, .background-borders, .background-original .background-container {
     pointer-events: none;
   }
