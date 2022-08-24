@@ -11,11 +11,11 @@ export default function MobileTemplate() {
       <div className="background" />
       <main className="main">
         <div className="title-container">
-          <h2 className="title">Please use a desktop to watch the full interactive documentary and map.</h2>
+          <h2 className="title">Please use a desktop to watch the interactive interviews and map.</h2>
         </div>
         <Vimeo video="742564590" />
         <div className="description-container">
-          <p className="description">This is an interactive web documentary about Kashmir.</p>
+          <p className="description">This is a web documentary about Kashmir.</p>
         </div>
       </main>
     </MobileTemplateStyle>
