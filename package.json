@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@ekolabs/eko-react-sdk": "^0.1.0",
+    "@u-wave/react-vimeo": "^0.9.8",
     "framer-motion": "^6.5.1",
     "json-loader": "^0.5.7",
     "mapbox-gl": "^2.9.1",
