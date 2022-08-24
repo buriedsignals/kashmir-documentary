@@ -1,19 +1,19 @@
 // Styles
-import { AboutTemplateStyle } from "./index.style"
+import { HistoryTemplateStyle } from "./index.style"
 // Hooks
 import useStore from "@/hooks/useStore"
 // Modules
 import HeaderModule from "@/components/modules/Header"
 import FrameModule from "@/components/modules/Frame"
 
-export default function AboutTemplate() {
+export default function HistoryTemplate() {
   // Store
   const backgroundImage = useStore((s) => s.backgroundImage)
   return (
-    <AboutTemplateStyle>
+    <HistoryTemplateStyle>
       <FrameModule noBottom={ true } backgroundImage={ `./images/${ backgroundImage }` }>
-        <div className="content-about">
-          <div className="content-about-container">
+        <div className="content-history">
+          <div className="content-history-container">
             <h1 className="title">Historical Timeline</h1>
             <p className="description">An overview of events in Kashmir.</p>
             <p className="sub-description">
@@ -123,6 +123,6 @@ export default function AboutTemplate() {
           </div>
         </div>
       </FrameModule>
-    </AboutTemplateStyle>
+    </HistoryTemplateStyle>
   )
 }

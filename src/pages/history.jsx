@@ -1,17 +1,17 @@
 // Hooks
 import useWindowSize from "@/hooks/useWindowSize"
 // Templates
-import AboutTemplate from "@/components/templates/About"
+import HistoryTemplate from "@/components/templates/History"
 import MobileTemplate from "@/components/templates/Mobile"
 
-export default function About() {
+export default function History() {
   // Hooks
   const windowSize = useWindowSize();
   return (
     <>
       {
         windowSize.width > 900 ?
-          <AboutTemplate></AboutTemplate>
+          <HistoryTemplate></HistoryTemplate>
           :
           <MobileTemplate></MobileTemplate>
       }
