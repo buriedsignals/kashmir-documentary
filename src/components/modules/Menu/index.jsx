@@ -79,8 +79,8 @@ export default function Menu({ ...props }) {
                   <span>03</span>Stories
                 </a>
               </li>
-              <li className={ isActiveRoute('/about') }>
-                <Link href="/about">
+              <li className={ isActiveRoute('/history') }>
+                <Link href="/history">
                   <a onClick={ onClickButton }>
                     <span>04</span>History
                   </a>
