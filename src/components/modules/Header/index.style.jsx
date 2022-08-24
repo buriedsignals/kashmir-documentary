@@ -68,9 +68,18 @@ export const HeaderStyle = styled.header`
       .act {
       }
       .socialItem {
-        padding: 9px 9px;
+        margin: 0 9px;
         ${down('xxl')} {
-          padding: ${ responsiveValue(9) } ${ responsiveValue(9) };
+          margin: 0 ${ responsiveValue(9) };
+        }
+        button {
+          padding: 5px;
+          ${down('xxl')} {
+            padding: ${ responsiveValue(5) };
+          }
+          svg {
+            margin: 0;
+          }
         }
       }
     }
