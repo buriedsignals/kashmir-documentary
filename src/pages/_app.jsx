@@ -8,7 +8,7 @@ import Head from 'next/head'
 
 const title = 'Lines of Control'
 const url = 'https://linesofcontrol.com/'
-const description = 'An interactive documentary and map about Kashmir.'
+const description = 'Lines of Control is an interactive documentary about the conflict in Kashmir. Viewers can ask academic experts questions about Kashmirs history, the geopolitical stakes between Pakistan and India or the humanitarian toll of the crisis.'
 const keywords = 'Kashmir, conflict, documentary, map'
 const author = 'Buried Signals'
 
