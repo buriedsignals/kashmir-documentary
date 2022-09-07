@@ -18,6 +18,7 @@ export default function AboutTemplate() {
         <div className="content-map">
           <div className="content-map-container">
             <FiltersMapModule />
+            <p className="instructions">Scroll to zoom</p>
             <PopupMapModule />
             <MapboxModule />
           </div>
