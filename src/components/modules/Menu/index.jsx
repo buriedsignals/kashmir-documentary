@@ -74,11 +74,11 @@ export default function Menu({ ...props }) {
                   </a>
                 </Link>
               </li>
-              <li className={ isActiveRoute('/stories') }>
+              {/* <li className={ isActiveRoute('/stories') }>
                 <a href='https://www.instagram.com/p/CLD3cm-JWRY/?igshid=YmMyMTA2M2Y%3D' target="_blank" rel="noreferrer" onClick={ onClickButton }>
                   <span>03</span>Stories
                 </a>
-              </li>
+          </li> */}
               <li className={ isActiveRoute('/history') }>
                 <Link href="/history">
                   <a onClick={ onClickButton }>
