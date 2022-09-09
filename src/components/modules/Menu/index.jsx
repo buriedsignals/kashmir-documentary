@@ -82,7 +82,7 @@ export default function Menu({ ...props }) {
               <li className={ isActiveRoute('/history') }>
                 <Link href="/history">
                   <a onClick={ onClickButton }>
-                    <span>04</span>History
+                    <span>03</span>History
                   </a>
                 </Link>
               </li>
