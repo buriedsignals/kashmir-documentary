@@ -173,6 +173,7 @@ export const BorderStyle = styled(motion.div)`
   z-index: 2;
   margin: 0;      
   backdrop-filter: blur(15px);
+  transform: translate3d(0, 0, 0);
   ${(props) => {
     switch (props.orientation) {
       case 'top':
