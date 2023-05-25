@@ -28,7 +28,7 @@ export default function Header({ ...props }) {
       <div className="navigation">
         <div className="items">
           <a className="act" href='https://standwithkashmir.org/no-g20-in-indian-occupied-kashmir/' target="_blank" rel="noreferrer">
-            <ActButton>Act now</ActButton>
+            <ActButton>Act Now</ActButton>
           </a>
           <a className="socialItem" href={`https://www.facebook.com/sharer/sharer.php?p[url]=${urlSocialShare}`} target="_blank" rel="noreferrer">
             <ActButton><FacebookIcon /></ActButton>
