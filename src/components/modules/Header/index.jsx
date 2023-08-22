@@ -39,7 +39,7 @@ export default function Header({ ...props }) {
         </div>
         <MenuModule />
       </div>
-      <a className="bs-logo" style={ router.pathname == "/interviews" ? { opacity: 0 } : {} } href="https://www.nuanced.studio" target="_blank" rel="noreferrer">
+      <a className="bs-logo" style={ router.pathname == "/interviews" ? { opacity: 0 } : {} } href="https://www.studio.buriedsignals.com/" target="_blank" rel="noreferrer">
         <BuriedSignalsLogoIcon />
       </a>
       <a className="sk-logo" style={ router.pathname == "/interviews" ? { opacity: 0 } : {} } href="https://standwithkashmir.org" target="_blank" rel="noreferrer">
