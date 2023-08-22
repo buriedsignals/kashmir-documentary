@@ -27,7 +27,7 @@ export const HeaderStyle = styled.header`
     display: flex;
     align-items: center;
     height: 67px;
-    margin: 11.5px 14px;
+    margin: 11.5px 9px;
     opacity: 1;
     transition: opacity 0.25s linear;
     ${down('lg')} {
@@ -35,7 +35,7 @@ export const HeaderStyle = styled.header`
     }
     ${down('xxl')} {
       height: ${ responsiveValue(67) };
-      margin: ${ responsiveValue(11.5) } ${ responsiveValue(14) };
+      margin: ${ responsiveValue(11.5) } ${ responsiveValue(9) };
     }
   }
   .sk-logo {

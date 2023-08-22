@@ -219,10 +219,6 @@ export default function Loader({ ...props }) {
   }
   return (
     <>
-      <Head>
-        <link rel="preload" href="/images/loader-00.jpg" as="image" />
-        <link rel="preload" href="/images/loader-01.gif" as="image" />
-      </Head>
       <LoaderStyle { ...props } variants={transitionLayout} initial="initial" animate="animate">
         <div className="background-lines">
           <Line orientation="top" startLoading={ startLoading } indexLine={ indexLine } />

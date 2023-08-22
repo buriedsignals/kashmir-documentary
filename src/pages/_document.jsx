@@ -20,6 +20,11 @@ export default class MyDocument extends Document {
           }}
         />
         <Head>
+          <link rel="preload" href="/images/loader-00.jpg" as="image" />
+          <link rel="preload" href="/images/loader-01.gif" as="image" />
+          <link rel="preload" href="/images/bg-about.jpg" as="image" />
+          <link rel="preload" href="/images/bg-home.jpg" as="image" />
+          <link rel="preload" href="/images/bg-map.jpg" as="image" />
         </Head>
         <body>
           <Main />
