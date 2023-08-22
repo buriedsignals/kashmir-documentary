@@ -10,7 +10,7 @@ const title = 'Lines of Control'
 const url = 'https://linesofcontrol.com/'
 const description = 'Lines of Control is an interactive documentary about the conflict in Kashmir. Viewers can ask academic experts questions about Kashmirs history, the geopolitical stakes between Pakistan and India or the humanitarian toll of the crisis.'
 const keywords = 'Kashmir, conflict, documentary, map'
-const author = 'Nuanced'
+const author = 'Buried Signals Studios'
 
 const GlobalStyle = createGlobalStyle`
   body {
@@ -78,10 +78,10 @@ function App({ Component, pageProps }) {
         <meta name='theme-color' content='#000' />
         <link rel='shortcut icon' href='/icons/favicon.ico' />
         <meta name='twitter:card' content='summary_large_image' />
-        <meta name='twitter:site' content='@NuancedStudio' />
+        <meta name='twitter:site' content='@buriedsignals' />
         <meta name='twitter:title' content={ title } />
         <meta name='twitter:description' content={ description } />
-        <meta name='twitter:creator' content='@NuancedStudio' />
+        <meta name='twitter:creator' content='@buriedsignals' />
         <meta name='twitter:image:src' content={ url +'images/img-meta.png' } />
       </Head>
       <GlobalStyle />
