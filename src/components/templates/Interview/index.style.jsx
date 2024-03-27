@@ -25,7 +25,7 @@ export const InterviewTemplateStyle = styled.div`
         width: calc(100vw - ${ responsiveValue(180) });
         height: calc(100vh - ${ responsiveValue(180) });
       }
-      .eko_component_container {
+      iframe {
         width: 100%;
         height: 100%;
       }
