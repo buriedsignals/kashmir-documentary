@@ -1,5 +1,9 @@
 // Styles
 import { FrameStyle, LineStyle, BorderStyle } from "./index.style"
+// React
+import { useEffect } from "react";
+// Next
+import { useRouter } from "next/router";
 // Nodes
 import { motion, AnimatePresence } from 'framer-motion';
 // Hooks
@@ -171,41 +175,49 @@ export function Border({ orientation, full, noBottom = false, menuOpen, popupOpe
 }
 
 export default function Frame({ full = true, noBottom = false, progress = 0, backgroundImage, children, ...props }) {
+  // Router
+  const router = useRouter()
   // Store
   const [menuOpen, popupOpen, loaderFinished] = useStore((s) => [s.menuOpen, s.popupOpen, s.loaderFinished])
+  // Effects
+  useEffect(() => {
+    if (router.pathname != "/") {
+      useStore.setState({ loaderFinished: true })
+    }
+  }, [router.pathname])
   return (
     <>
       {
         loaderFinished ?
-        <FrameStyle backgroundImage={ backgroundImage } { ...props }>
-          <div className="background-lines">
-            <Line orientation="top" full={ full } popupOpen={ popupOpen } />
-            <Line orientation="right" full={ full } menuOpen={ menuOpen } popupOpen={ popupOpen } />
-            <Line orientation="bottom" full={ full } noBottom={ noBottom } popupOpen={ popupOpen } />
-            <Line orientation="left" full={ full } />
-          </div>
-          <div className="background-borders">
-            <Border orientation="top" full={ full } popupOpen={ popupOpen } />
-            <Border orientation="right" full={ full } menuOpen={ menuOpen } popupOpen={ popupOpen } />
-            <Border orientation="bottom" full={ full } noBottom={ noBottom } popupOpen={ popupOpen } />
-            <Border orientation="left" full={ full } />
-          </div>
-          <div className="background-original">
-            <div className="background-container" />
-            <div className="content-frame">
-              {/* { loaderFinished &&  */}
-              <>
-                <HeaderModule />
-                <motion.div variants={transition}>
-                  { children }
-                </motion.div>
-              </>
-              {/* } */}
+          <FrameStyle backgroundImage={ backgroundImage } { ...props }>
+            <div className="background-lines">
+              <Line orientation="top" full={ full } popupOpen={ popupOpen } />
+              <Line orientation="right" full={ full } menuOpen={ menuOpen } popupOpen={ popupOpen } />
+              <Line orientation="bottom" full={ full } noBottom={ noBottom } popupOpen={ popupOpen } />
+              <Line orientation="left" full={ full } />
             </div>
-          </div>
-        </FrameStyle>
+            <div className="background-borders">
+              <Border orientation="top" full={ full } popupOpen={ popupOpen } />
+              <Border orientation="right" full={ full } menuOpen={ menuOpen } popupOpen={ popupOpen } />
+              <Border orientation="bottom" full={ full } noBottom={ noBottom } popupOpen={ popupOpen } />
+              <Border orientation="left" full={ full } />
+            </div>
+            <div className="background-original">
+              <div className="background-container" />
+              <div className="content-frame">
+                {/* { loaderFinished &&  */}
+                <>
+                  <HeaderModule />
+                  <motion.div variants={transition}>
+                    { children }
+                  </motion.div>
+                </>
+                {/* } */}
+              </div>
+            </div>
+          </FrameStyle>
         :
-        <LoaderModule />
+          <LoaderModule />
       }
       <p>{ loaderFinished }</p>
     </>
