@@ -1,7 +1,7 @@
-import styled, { css } from 'styled-components'
+import styled, { css } from "styled-components";
 import { responsiveValue } from "@/components/templates/Interview/index.style";
-import { down } from 'styled-breakpoints';
-import { motion } from 'framer-motion'
+import { down } from "styled-breakpoints";
+import { motion } from "framer-motion";
 
 export const MapboxStyle = styled(motion.div)`
   position: relative;
@@ -12,72 +12,73 @@ export const MapboxStyle = styled(motion.div)`
   overflow: hidden;
   // &.is-popup {
   //   width: calc(100% - 548px);
-  //   ${down('xxl')} {
-  //     width: calc(100% - ${ responsiveValue(548) });
+  //   ${down("xxl")} {
+  //     width: calc(100% - ${responsiveValue(548)});
   //   }
   // }
-  .mapboxgl-ctrl-bottom-left, .mapboxgl-ctrl-bottom-right {
+  .maplibregl-ctrl-bottom-left,
+  .maplibregl-ctrl-bottom-right {
     display: none;
   }
-  .mapboxgl-popup {
+  .maplibregl-popup {
     max-width: 260px !important;
-    ${down('xxl')} {
-      max-width: ${ responsiveValue(260) } !important;
+    ${down("xxl")} {
+      max-width: ${responsiveValue(260)} !important;
     }
-    .mapboxgl-popup-tip {
+    .maplibregl-popup-tip {
       display: none;
     }
-    .mapboxgl-popup-content {
+    .maplibregl-popup-content {
       padding: 15px 13px;
       background: #7d817d;
       box-shadow: inherit;
-      border: 1px solid #FFFFFF;
+      border: 1px solid #ffffff;
       border-radius: 0;
-      ${down('xxl')} {
-        padding: ${ responsiveValue(15) } ${ responsiveValue(13) };
+      ${down("xxl")} {
+        padding: ${responsiveValue(15)} ${responsiveValue(13)};
       }
-      .mapboxgl-popup-close-button {
+      .maplibregl-popup-close-button {
         display: none;
       }
       .popup-hover {
         position: relative;
-        color: #FFFFFF;
+        color: #ffffff;
         .popup-hover-category {
           &::before {
-            content: '';
+            content: "";
             top: 50%;
             display: inline-block;
             width: 7px;
             height: 7px;
             margin: 0 10px 0 7px;
-            background: #FFFFFF;
+            background: #ffffff;
             transform: translate3D(-50%, -50%, 0) rotate3D(0, 0, 1, 45deg);
-            ${down('xxl')} {
-              width: ${ responsiveValue(7) };
-              height: ${ responsiveValue(7) };
-              margin: 0 ${ responsiveValue(10) } 0 ${ responsiveValue(7) };
+            ${down("xxl")} {
+              width: ${responsiveValue(7)};
+              height: ${responsiveValue(7)};
+              margin: 0 ${responsiveValue(10)} 0 ${responsiveValue(7)};
             }
           }
         }
         .popup-hover-title {
           margin-top: 7.5px;
-          color: #FFFFFF;
-          font-family: 'Kalista Serif';
+          color: #ffffff;
+          font-family: "Kalista Serif";
           font-style: normal;
           font-weight: 400;
           font-size: 14px;
           line-height: 23px;
           letter-spacing: 0.05em;
-          ${down('xxl')} {
-            margin-top: ${ responsiveValue(7.5) };
-            font-size: ${ responsiveValue(14) };
-            line-height: ${ responsiveValue(23) };
+          ${down("xxl")} {
+            margin-top: ${responsiveValue(7.5)};
+            font-size: ${responsiveValue(14)};
+            line-height: ${responsiveValue(23)};
           }
         }
       }
     }
   }
-`
+`;
 
 export const SatelliteStyle = styled.div`
   p {
@@ -94,12 +95,12 @@ export const SatelliteStyle = styled.div`
     text-align: center;
     white-space: nowrap;
     z-index: 1; 
-    ${down('xxl')} {
-      bottom: ${ responsiveValue(197.5) };
-      left: ${ responsiveValue(110) };
-      width: ${ responsiveValue(80) };
-      font-size: ${ responsiveValue(14) };
-      line-height: ${ responsiveValue(13) };
+    ${down("xxl")} {
+      bottom: ${responsiveValue(197.5)};
+      left: ${responsiveValue(110)};
+      width: ${responsiveValue(80)};
+      font-size: ${responsiveValue(14)};
+      line-height: ${responsiveValue(13)};
     }
   }
   .satellite-container {
@@ -109,16 +110,17 @@ export const SatelliteStyle = styled.div`
     width: 80px;
     height: 80px;
     border: 1px solid rgba(255, 255, 255, 0.5);
-    background-image: url('images/button-${(props) => props.isSatellite ? 'stylized' : 'satellite' }.jpg');
+    background-image: url('images/button-${(props) =>
+      props.isSatellite ? "stylized" : "satellite"}.jpg');
     background-size: cover;
     background-position: center;
     z-index: 1; 
     transition: height 0.25s cubic-bezier(0.16, 1, 0.3, 1) 0.25s;
-    ${down('xxl')} {
-      bottom: ${ responsiveValue(110) };
-      left: ${ responsiveValue(110) };
-      width: ${ responsiveValue(80) };
-      height: ${ responsiveValue(80) };
+    ${down("xxl")} {
+      bottom: ${responsiveValue(110)};
+      left: ${responsiveValue(110)};
+      width: ${responsiveValue(80)};
+      height: ${responsiveValue(80)};
     }
     &:hover {
       .border-left, .border-right {
@@ -137,9 +139,9 @@ export const SatelliteStyle = styled.div`
         height: 5px;
         border: 1px solid;
         pointer-events: none;
-        ${down('xxl')} {
-          width: ${ responsiveValue(5) };
-          height: ${ responsiveValue(5) };
+        ${down("xxl")} {
+          width: ${responsiveValue(5)};
+          height: ${responsiveValue(5)};
         }
       }
     }
@@ -193,4 +195,4 @@ export const SatelliteStyle = styled.div`
       }
     }
   }
-`
+`;
