@@ -12,7 +12,7 @@ import "maplibre-gl/dist/maplibre-gl.css";
 // Datas
 import kashmirDatas from "../../../../public/datas/kashmir.geojson";
 
-const MAPTILER_KEY = "yNoXF8Hy1uK6olP1dArJ";
+const MAPTILER_KEY = "aeGatHIJDM8d2AdRAEX1";
 const BASE_STYLE_URL = `https://api.maptiler.com/maps/backdrop/style.json?key=${MAPTILER_KEY}`;
 const SATELLITE_TILE_URL = `https://api.maptiler.com/tiles/satellite-v2/{z}/{x}/{y}.jpg?key=${MAPTILER_KEY}`;
 const SPRITE_URL = `${
